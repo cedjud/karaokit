@@ -1,0 +1,4468 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 333.8900146484375,
+  "text": "Turn around Every now and then I get a little bit lonely and you're never coming around Turn around Every now and then I get a little bit tired of listening to the sound of my tears Turn around Every now and then I get a little bit nervous that the best of all the years have gone by Turn around Every now and then I get a little bit terrified and then I see the look in your eyes Turn around, bright eyes Every now and then I fall apart Turn around, bright eyes Every now and then I fall apart Turn around Every now and then I get a little bit restless and I dream of something wild Turn around Every now and then I get a little bit helpless and I'm lying like a child in your arms Turn around Every now and then I get a little bit angry and I know I've got to get out and cry Turn around Every now and then I get a little bit terrified but then I see the look in your eyes Turn around, bright eyes Every now and then I fall apart Turn around, bright eyes Every now and then I fall apart And I need you now tonight And I need you more than ever And if you only hold me tight We'll be holding on forever And we'll only be making it right Because we'll never be wrong Together we can take it to the end of the line Your love is like a shadow on me all of the time I don't know what to do and I'm always in the dark We're living in a powder keg and giving up is wrong I really need you tonight Forever's gonna start tonight Forever's gonna start tonight Once upon a time I was falling in love Now I'm only falling apart There's nothing I can do, a total eclipse of the heart Once upon a time there was light in my life But now there's only love in the dark Nothing I can say, a total eclipse of the heart Turn around, bright eyes Every now and then I fall apart Turn around, bright eyes Every now and then I fall apart And I need you now tonight And I need you more than ever   And I need you more than ever And if you only hold me tight We'll be holding on forever And we'll only be making it right Because we'll never be wrong Together we can take it to the end of the line Your love is like a shadow on me all of the time I don't know what to do and I'm always in the dark We're living in a party, can't get lost and fall I really need you tonight Forever's gonna start tonight Forever's gonna start tonight Once upon a time I was falling in love Now I'm only falling apart Nothing I can do, a total eclipse of the heart Once upon a time there was light in my life Now there's only love in the dark Nothing I can say, a total eclipse of the heart A total eclipse of the heart A total eclipse of the heart Turn around bright eyes Turn around bright eyes Turn around",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 7.679999828338623,
+      "end": 9.4399995803833,
+      "text": " Turn around",
+      "tokens": [
+        50364,
+        7956,
+        926,
+        50864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3314014971256256,
+      "compression_ratio": 1.738738775253296,
+      "no_speech_prob": 0.8814904093742371
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10,
+      "end": 15.020000457763672,
+      "text": " Every now and then I get a little bit lonely and you're never coming around",
+      "tokens": [
+        50864,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        14236,
+        293,
+        291,
+        434,
+        1128,
+        1348,
+        926,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3314014971256256,
+      "compression_ratio": 1.738738775253296,
+      "no_speech_prob": 0.8814904093742371
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.119999885559082,
+      "end": 16.8799991607666,
+      "text": " Turn around",
+      "tokens": [
+        51114,
+        7956,
+        926,
+        51214
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3314014971256256,
+      "compression_ratio": 1.738738775253296,
+      "no_speech_prob": 0.8814904093742371
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.8799991607666,
+      "end": 22.860000610351562,
+      "text": " Every now and then I get a little bit tired of listening to the sound of my tears",
+      "tokens": [
+        51214,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        5868,
+        295,
+        4764,
+        281,
+        264,
+        1626,
+        295,
+        452,
+        10462,
+        51514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3314014971256256,
+      "compression_ratio": 1.738738775253296,
+      "no_speech_prob": 0.8814904093742371
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.860000610351562,
+      "end": 24.3799991607666,
+      "text": " Turn around",
+      "tokens": [
+        51514,
+        7956,
+        926,
+        51614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3314014971256256,
+      "compression_ratio": 1.738738775253296,
+      "no_speech_prob": 0.8814904093742371
+    },
+    {
+      "id": 5,
+      "seek": 2438,
+      "start": 24.3799991607666,
+      "end": 30.440000534057617,
+      "text": " Every now and then I get a little bit nervous that the best of all the years have gone by",
+      "tokens": [
+        50364,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        6296,
+        300,
+        264,
+        1151,
+        295,
+        439,
+        264,
+        924,
+        362,
+        2780,
+        538,
+        50664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 6,
+      "seek": 2438,
+      "start": 31.920000076293945,
+      "end": 32.560001373291016,
+      "text": " Turn around",
+      "tokens": [
+        50664,
+        7956,
+        926,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 7,
+      "seek": 2438,
+      "start": 32.560001373291016,
+      "end": 37.7400016784668,
+      "text": " Every now and then I get a little bit terrified and then I see the look in your eyes",
+      "tokens": [
+        50764,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        23051,
+        293,
+        550,
+        286,
+        536,
+        264,
+        574,
+        294,
+        428,
+        2575,
+        51014
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 8,
+      "seek": 2438,
+      "start": 38.13999938964844,
+      "end": 41.380001068115234,
+      "text": " Turn around, bright eyes",
+      "tokens": [
+        51014,
+        7956,
+        926,
+        11,
+        4730,
+        2575,
+        51214
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 9,
+      "seek": 2438,
+      "start": 41.380001068115234,
+      "end": 43.400001525878906,
+      "text": " Every now and then I fall apart",
+      "tokens": [
+        51214,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        2100,
+        4936,
+        51314
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 10,
+      "seek": 2438,
+      "start": 43.63999938964844,
+      "end": 46.380001068115234,
+      "text": " Turn around, bright eyes",
+      "tokens": [
+        51314,
+        7956,
+        926,
+        11,
+        4730,
+        2575,
+        51464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 11,
+      "seek": 2438,
+      "start": 46.880001068115234,
+      "end": 49.119998931884766,
+      "text": " Every now and then I fall apart",
+      "tokens": [
+        51464,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        2100,
+        4936,
+        51564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 12,
+      "seek": 2438,
+      "start": 50.08000183105469,
+      "end": 50.720001220703125,
+      "text": " Turn around",
+      "tokens": [
+        51564,
+        7956,
+        926,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15892952680587769,
+      "compression_ratio": 2.277372360229492,
+      "no_speech_prob": 0.5574493408203125
+    },
+    {
+      "id": 13,
+      "seek": 5072,
+      "start": 50.720001220703125,
+      "end": 56.08000183105469,
+      "text": " Every now and then I get a little bit restless and I dream of something wild",
+      "tokens": [
+        50364,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        45451,
+        293,
+        286,
+        3055,
+        295,
+        746,
+        4868,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1538243144750595,
+      "compression_ratio": 2.279503107070923,
+      "no_speech_prob": 0.8681382536888123
+    },
+    {
+      "id": 14,
+      "seek": 5072,
+      "start": 56.18000030517578,
+      "end": 57.619998931884766,
+      "text": " Turn around",
+      "tokens": [
+        50614,
+        7956,
+        926,
+        50714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1538243144750595,
+      "compression_ratio": 2.279503107070923,
+      "no_speech_prob": 0.8681382536888123
+    },
+    {
+      "id": 15,
+      "seek": 5072,
+      "start": 57.84000015258789,
+      "end": 63.68000030517578,
+      "text": " Every now and then I get a little bit helpless and I'm lying like a child in your arms",
+      "tokens": [
+        50714,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        27596,
+        293,
+        286,
+        478,
+        8493,
+        411,
+        257,
+        1440,
+        294,
+        428,
+        5812,
+        51014
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1538243144750595,
+      "compression_ratio": 2.279503107070923,
+      "no_speech_prob": 0.8681382536888123
+    },
+    {
+      "id": 16,
+      "seek": 5072,
+      "start": 63.720001220703125,
+      "end": 65.16000366210938,
+      "text": " Turn around",
+      "tokens": [
+        51014,
+        7956,
+        926,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1538243144750595,
+      "compression_ratio": 2.279503107070923,
+      "no_speech_prob": 0.8681382536888123
+    },
+    {
+      "id": 17,
+      "seek": 5072,
+      "start": 65.33999633789062,
+      "end": 71.12000274658203,
+      "text": " Every now and then I get a little bit angry and I know I've got to get out and cry",
+      "tokens": [
+        51114,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        6884,
+        293,
+        286,
+        458,
+        286,
+        600,
+        658,
+        281,
+        483,
+        484,
+        293,
+        3305,
+        51364
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1538243144750595,
+      "compression_ratio": 2.279503107070923,
+      "no_speech_prob": 0.8681382536888123
+    },
+    {
+      "id": 18,
+      "seek": 5072,
+      "start": 71.12000274658203,
+      "end": 72.5,
+      "text": " Turn around",
+      "tokens": [
+        51364,
+        7956,
+        926,
+        51464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1538243144750595,
+      "compression_ratio": 2.279503107070923,
+      "no_speech_prob": 0.8681382536888123
+    },
+    {
+      "id": 19,
+      "seek": 5072,
+      "start": 72.66000366210938,
+      "end": 78.77999877929688,
+      "text": " Every now and then I get a little bit terrified but then I see the look in your eyes",
+      "tokens": [
+        51464,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        483,
+        257,
+        707,
+        857,
+        23051,
+        457,
+        550,
+        286,
+        536,
+        264,
+        574,
+        294,
+        428,
+        2575,
+        51764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1538243144750595,
+      "compression_ratio": 2.279503107070923,
+      "no_speech_prob": 0.8681382536888123
+    },
+    {
+      "id": 20,
+      "seek": 7878,
+      "start": 78.77999877929688,
+      "end": 81.95999908447266,
+      "text": " Turn around, bright eyes",
+      "tokens": [
+        50364,
+        7956,
+        926,
+        11,
+        4730,
+        2575,
+        50514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 21,
+      "seek": 7878,
+      "start": 81.95999908447266,
+      "end": 83.87999725341797,
+      "text": " Every now and then I fall apart",
+      "tokens": [
+        50514,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        2100,
+        4936,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 22,
+      "seek": 7878,
+      "start": 83.95999908447266,
+      "end": 86.77999877929688,
+      "text": " Turn around, bright eyes",
+      "tokens": [
+        50614,
+        7956,
+        926,
+        11,
+        4730,
+        2575,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 23,
+      "seek": 7878,
+      "start": 87.5199966430664,
+      "end": 90.26000213623047,
+      "text": " Every now and then I fall apart",
+      "tokens": [
+        50764,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        2100,
+        4936,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 24,
+      "seek": 7878,
+      "start": 90.26000213623047,
+      "end": 93.5199966430664,
+      "text": " And I need you now tonight",
+      "tokens": [
+        50914,
+        400,
+        286,
+        643,
+        291,
+        586,
+        4440,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 25,
+      "seek": 7878,
+      "start": 93.76000213623047,
+      "end": 97.5,
+      "text": " And I need you more than ever",
+      "tokens": [
+        51114,
+        400,
+        286,
+        643,
+        291,
+        544,
+        813,
+        1562,
+        51314
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 26,
+      "seek": 7878,
+      "start": 97.5,
+      "end": 100.83999633789062,
+      "text": " And if you only hold me tight",
+      "tokens": [
+        51314,
+        400,
+        498,
+        291,
+        787,
+        1797,
+        385,
+        4524,
+        51464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 27,
+      "seek": 7878,
+      "start": 101.05999755859375,
+      "end": 104.45999908447266,
+      "text": " We'll be holding on forever",
+      "tokens": [
+        51464,
+        492,
+        603,
+        312,
+        5061,
+        322,
+        5680,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15765716135501862,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.3619134724140167
+    },
+    {
+      "id": 28,
+      "seek": 10446,
+      "start": 104.45999908447266,
+      "end": 108.23999786376953,
+      "text": " And we'll only be making it right",
+      "tokens": [
+        50364,
+        400,
+        321,
+        603,
+        787,
+        312,
+        1455,
+        309,
+        558,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 29,
+      "seek": 10446,
+      "start": 108.54000091552734,
+      "end": 110.95999908447266,
+      "text": " Because we'll never be wrong",
+      "tokens": [
+        50564,
+        1436,
+        321,
+        603,
+        1128,
+        312,
+        2085,
+        50664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 30,
+      "seek": 10446,
+      "start": 110.95999908447266,
+      "end": 114.44000244140625,
+      "text": " Together we can take it to the end of the line",
+      "tokens": [
+        50664,
+        15911,
+        321,
+        393,
+        747,
+        309,
+        281,
+        264,
+        917,
+        295,
+        264,
+        1622,
+        50864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 31,
+      "seek": 10446,
+      "start": 114.44000244140625,
+      "end": 118.33999633789062,
+      "text": " Your love is like a shadow on me all of the time",
+      "tokens": [
+        50864,
+        2260,
+        959,
+        307,
+        411,
+        257,
+        8576,
+        322,
+        385,
+        439,
+        295,
+        264,
+        565,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 32,
+      "seek": 10446,
+      "start": 119.58000183105469,
+      "end": 123.33999633789062,
+      "text": " I don't know what to do and I'm always in the dark",
+      "tokens": [
+        51114,
+        286,
+        500,
+        380,
+        458,
+        437,
+        281,
+        360,
+        293,
+        286,
+        478,
+        1009,
+        294,
+        264,
+        2877,
+        51314
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 33,
+      "seek": 10446,
+      "start": 123.37999725341797,
+      "end": 127.30000305175781,
+      "text": " We're living in a powder keg and giving up is wrong",
+      "tokens": [
+        51314,
+        492,
+        434,
+        2647,
+        294,
+        257,
+        6341,
+        803,
+        70,
+        293,
+        2902,
+        493,
+        307,
+        2085,
+        51514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 34,
+      "seek": 10446,
+      "start": 127.30000305175781,
+      "end": 129.6199951171875,
+      "text": " I really need you tonight",
+      "tokens": [
+        51514,
+        286,
+        534,
+        643,
+        291,
+        4440,
+        51614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 35,
+      "seek": 10446,
+      "start": 130.82000732421875,
+      "end": 133.27999877929688,
+      "text": " Forever's gonna start tonight",
+      "tokens": [
+        51614,
+        30703,
+        311,
+        799,
+        722,
+        4440,
+        51814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23319144546985626,
+      "compression_ratio": 1.5693069696426392,
+      "no_speech_prob": 0.34501317143440247
+    },
+    {
+      "id": 36,
+      "seek": 13328,
+      "start": 134.27999877929688,
+      "end": 136.27999877929688,
+      "text": " Forever's gonna start tonight",
+      "tokens": [
+        50364,
+        30703,
+        311,
+        799,
+        722,
+        4440,
+        50514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20191389322280884,
+      "compression_ratio": 1.4967741966247559,
+      "no_speech_prob": 0.024350039660930634
+    },
+    {
+      "id": 37,
+      "seek": 13328,
+      "start": 136.8000030517578,
+      "end": 139.55999755859375,
+      "text": " Once upon a time I was falling in love",
+      "tokens": [
+        50514,
+        3443,
+        3564,
+        257,
+        565,
+        286,
+        390,
+        7440,
+        294,
+        959,
+        50664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20191389322280884,
+      "compression_ratio": 1.4967741966247559,
+      "no_speech_prob": 0.024350039660930634
+    },
+    {
+      "id": 38,
+      "seek": 13328,
+      "start": 139.6199951171875,
+      "end": 142.5,
+      "text": " Now I'm only falling apart",
+      "tokens": [
+        50664,
+        823,
+        286,
+        478,
+        787,
+        7440,
+        4936,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20191389322280884,
+      "compression_ratio": 1.4967741966247559,
+      "no_speech_prob": 0.024350039660930634
+    },
+    {
+      "id": 39,
+      "seek": 13328,
+      "start": 144.82000732421875,
+      "end": 149.27999877929688,
+      "text": " There's nothing I can do, a total eclipse of the heart",
+      "tokens": [
+        50914,
+        821,
+        311,
+        1825,
+        286,
+        393,
+        360,
+        11,
+        257,
+        3217,
+        35722,
+        295,
+        264,
+        1917,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20191389322280884,
+      "compression_ratio": 1.4967741966247559,
+      "no_speech_prob": 0.024350039660930634
+    },
+    {
+      "id": 40,
+      "seek": 13328,
+      "start": 156.0800018310547,
+      "end": 159.67999267578125,
+      "text": " Once upon a time there was light in my life",
+      "tokens": [
+        51514,
+        3443,
+        3564,
+        257,
+        565,
+        456,
+        390,
+        1442,
+        294,
+        452,
+        993,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20191389322280884,
+      "compression_ratio": 1.4967741966247559,
+      "no_speech_prob": 0.024350039660930634
+    },
+    {
+      "id": 41,
+      "seek": 13328,
+      "start": 159.67999267578125,
+      "end": 162.5399932861328,
+      "text": " But now there's only love in the dark",
+      "tokens": [
+        51664,
+        583,
+        586,
+        456,
+        311,
+        787,
+        959,
+        294,
+        264,
+        2877,
+        51814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20191389322280884,
+      "compression_ratio": 1.4967741966247559,
+      "no_speech_prob": 0.024350039660930634
+    },
+    {
+      "id": 42,
+      "seek": 16328,
+      "start": 163.5399932861328,
+      "end": 168.27999877929688,
+      "text": " Nothing I can say, a total eclipse of the heart",
+      "tokens": [
+        50364,
+        6693,
+        286,
+        393,
+        584,
+        11,
+        257,
+        3217,
+        35722,
+        295,
+        264,
+        1917,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18029239773750305,
+      "compression_ratio": 0.8545454740524292,
+      "no_speech_prob": 0.00562588544562459
+    },
+    {
+      "id": 43,
+      "seek": 19328,
+      "start": 207.47999572753906,
+      "end": 211.16000366210938,
+      "text": " Turn around, bright eyes",
+      "tokens": [
+        50414,
+        7956,
+        926,
+        11,
+        4730,
+        2575,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 44,
+      "seek": 19328,
+      "start": 211.16000366210938,
+      "end": 213.63999938964844,
+      "text": " Every now and then I fall apart",
+      "tokens": [
+        50614,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        2100,
+        4936,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 45,
+      "seek": 19328,
+      "start": 213.63999938964844,
+      "end": 216.39999389648438,
+      "text": " Turn around, bright eyes",
+      "tokens": [
+        50764,
+        7956,
+        926,
+        11,
+        4730,
+        2575,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 46,
+      "seek": 19328,
+      "start": 216.39999389648438,
+      "end": 219.5,
+      "text": " Every now and then I fall apart",
+      "tokens": [
+        50914,
+        2048,
+        586,
+        293,
+        550,
+        286,
+        2100,
+        4936,
+        51064
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 47,
+      "seek": 19328,
+      "start": 219.5,
+      "end": 222.3800048828125,
+      "text": " And I need you now tonight",
+      "tokens": [
+        51064,
+        400,
+        286,
+        643,
+        291,
+        586,
+        4440,
+        51264
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 48,
+      "seek": 19328,
+      "start": 222.3800048828125,
+      "end": 223.25999450683594,
+      "text": " And I need you more than ever",
+      "tokens": [
+        51264,
+        400,
+        286,
+        643,
+        291,
+        544,
+        813,
+        1562,
+        51414
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 49,
+      "seek": 19328,
+      "start": 223.25999450683594,
+      "end": 223.25999450683594,
+      "text": "",
+      "tokens": [],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 50,
+      "seek": 19328,
+      "start": 223.25999450683594,
+      "end": 223.25999450683594,
+      "text": "",
+      "tokens": [],
+      "temperature": 0,
+      "avg_logprob": -0.20563837885856628,
+      "compression_ratio": 1.8240000009536743,
+      "no_speech_prob": 0.05888551101088524
+    },
+    {
+      "id": 51,
+      "seek": 22326,
+      "start": 223.25999450683594,
+      "end": 226.17999267578125,
+      "text": " And I need you more than ever",
+      "tokens": [
+        50364,
+        400,
+        286,
+        643,
+        291,
+        544,
+        813,
+        1562,
+        50514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 52,
+      "seek": 22326,
+      "start": 226.3800048828125,
+      "end": 229.83999633789062,
+      "text": " And if you only hold me tight",
+      "tokens": [
+        50514,
+        400,
+        498,
+        291,
+        787,
+        1797,
+        385,
+        4524,
+        50714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 53,
+      "seek": 22326,
+      "start": 230.05999755859375,
+      "end": 233.24000549316406,
+      "text": " We'll be holding on forever",
+      "tokens": [
+        50714,
+        492,
+        603,
+        312,
+        5061,
+        322,
+        5680,
+        50864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 54,
+      "seek": 22326,
+      "start": 233.47999572753906,
+      "end": 236.9600067138672,
+      "text": " And we'll only be making it right",
+      "tokens": [
+        50864,
+        400,
+        321,
+        603,
+        787,
+        312,
+        1455,
+        309,
+        558,
+        51064
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 55,
+      "seek": 22326,
+      "start": 237.17999267578125,
+      "end": 239.6199951171875,
+      "text": " Because we'll never be wrong",
+      "tokens": [
+        51064,
+        1436,
+        321,
+        603,
+        1128,
+        312,
+        2085,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 56,
+      "seek": 22326,
+      "start": 239.6199951171875,
+      "end": 242.77999877929688,
+      "text": " Together we can take it to the end of the line",
+      "tokens": [
+        51164,
+        15911,
+        321,
+        393,
+        747,
+        309,
+        281,
+        264,
+        917,
+        295,
+        264,
+        1622,
+        51364
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 57,
+      "seek": 22326,
+      "start": 242.86000061035156,
+      "end": 246.63999938964844,
+      "text": " Your love is like a shadow on me all of the time",
+      "tokens": [
+        51364,
+        2260,
+        959,
+        307,
+        411,
+        257,
+        8576,
+        322,
+        385,
+        439,
+        295,
+        264,
+        565,
+        51614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 58,
+      "seek": 22326,
+      "start": 247.8800048828125,
+      "end": 251.66000366210938,
+      "text": " I don't know what to do and I'm always in the dark",
+      "tokens": [
+        51614,
+        286,
+        500,
+        380,
+        458,
+        437,
+        281,
+        360,
+        293,
+        286,
+        478,
+        1009,
+        294,
+        264,
+        2877,
+        51764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1329057663679123,
+      "compression_ratio": 1.5882352590560913,
+      "no_speech_prob": 0.20199449360370636
+    },
+    {
+      "id": 59,
+      "seek": 25166,
+      "start": 251.66000366210938,
+      "end": 255.6199951171875,
+      "text": " We're living in a party, can't get lost and fall",
+      "tokens": [
+        50364,
+        492,
+        434,
+        2647,
+        294,
+        257,
+        971,
+        874,
+        11,
+        393,
+        380,
+        483,
+        2731,
+        293,
+        2100,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2461908906698227,
+      "compression_ratio": 1.625,
+      "no_speech_prob": 0.009684874676167965
+    },
+    {
+      "id": 60,
+      "seek": 25166,
+      "start": 257,
+      "end": 259.7799987792969,
+      "text": " I really need you tonight",
+      "tokens": [
+        50614,
+        286,
+        534,
+        643,
+        291,
+        4440,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2461908906698227,
+      "compression_ratio": 1.625,
+      "no_speech_prob": 0.009684874676167965
+    },
+    {
+      "id": 61,
+      "seek": 25166,
+      "start": 260.7200012207031,
+      "end": 262.6600036621094,
+      "text": " Forever's gonna start tonight",
+      "tokens": [
+        50764,
+        30703,
+        311,
+        799,
+        722,
+        4440,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2461908906698227,
+      "compression_ratio": 1.625,
+      "no_speech_prob": 0.009684874676167965
+    },
+    {
+      "id": 62,
+      "seek": 25166,
+      "start": 264.05999755859375,
+      "end": 266.05999755859375,
+      "text": " Forever's gonna start tonight",
+      "tokens": [
+        50914,
+        30703,
+        311,
+        799,
+        722,
+        4440,
+        51064
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2461908906698227,
+      "compression_ratio": 1.625,
+      "no_speech_prob": 0.009684874676167965
+    },
+    {
+      "id": 63,
+      "seek": 25166,
+      "start": 266.05999755859375,
+      "end": 269.3800048828125,
+      "text": " Once upon a time I was falling in love",
+      "tokens": [
+        51064,
+        3443,
+        3564,
+        257,
+        565,
+        286,
+        390,
+        7440,
+        294,
+        959,
+        51214
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2461908906698227,
+      "compression_ratio": 1.625,
+      "no_speech_prob": 0.009684874676167965
+    },
+    {
+      "id": 64,
+      "seek": 25166,
+      "start": 269.3800048828125,
+      "end": 271.6600036621094,
+      "text": " Now I'm only falling apart",
+      "tokens": [
+        51214,
+        823,
+        286,
+        478,
+        787,
+        7440,
+        4936,
+        51364
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2461908906698227,
+      "compression_ratio": 1.625,
+      "no_speech_prob": 0.009684874676167965
+    },
+    {
+      "id": 65,
+      "seek": 25166,
+      "start": 274.9800109863281,
+      "end": 279.67999267578125,
+      "text": " Nothing I can do, a total eclipse of the heart",
+      "tokens": [
+        51514,
+        6693,
+        286,
+        393,
+        360,
+        11,
+        257,
+        3217,
+        35722,
+        295,
+        264,
+        1917,
+        51764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2461908906698227,
+      "compression_ratio": 1.625,
+      "no_speech_prob": 0.009684874676167965
+    },
+    {
+      "id": 66,
+      "seek": 28166,
+      "start": 285.9200134277344,
+      "end": 289.739990234375,
+      "text": " Once upon a time there was light in my life",
+      "tokens": [
+        50414,
+        3443,
+        3564,
+        257,
+        565,
+        456,
+        390,
+        1442,
+        294,
+        452,
+        993,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2456597238779068,
+      "compression_ratio": 1.4128440618515015,
+      "no_speech_prob": 0.006793613079935312
+    },
+    {
+      "id": 67,
+      "seek": 28166,
+      "start": 289.739990234375,
+      "end": 293.1000061035156,
+      "text": " Now there's only love in the dark",
+      "tokens": [
+        50764,
+        823,
+        456,
+        311,
+        787,
+        959,
+        294,
+        264,
+        2877,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2456597238779068,
+      "compression_ratio": 1.4128440618515015,
+      "no_speech_prob": 0.006793613079935312
+    },
+    {
+      "id": 68,
+      "seek": 28166,
+      "start": 293.5799865722656,
+      "end": 300.3800048828125,
+      "text": " Nothing I can say, a total eclipse of the heart",
+      "tokens": [
+        50914,
+        6693,
+        286,
+        393,
+        584,
+        11,
+        257,
+        3217,
+        35722,
+        295,
+        264,
+        1917,
+        51264
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2456597238779068,
+      "compression_ratio": 1.4128440618515015,
+      "no_speech_prob": 0.006793613079935312
+    },
+    {
+      "id": 69,
+      "seek": 28166,
+      "start": 302.8999938964844,
+      "end": 306.239990234375,
+      "text": " A total eclipse of the heart",
+      "tokens": [
+        51414,
+        316,
+        3217,
+        35722,
+        295,
+        264,
+        1917,
+        51614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2456597238779068,
+      "compression_ratio": 1.4128440618515015,
+      "no_speech_prob": 0.006793613079935312
+    },
+    {
+      "id": 70,
+      "seek": 30624,
+      "start": 306.239990234375,
+      "end": 310.9200134277344,
+      "text": " A total eclipse of the heart",
+      "tokens": [
+        50364,
+        316,
+        3217,
+        35722,
+        295,
+        264,
+        1917,
+        50514
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38782408833503723,
+      "compression_ratio": 1.419354796409607,
+      "no_speech_prob": 0.26065629720687866
+    },
+    {
+      "id": 71,
+      "seek": 30624,
+      "start": 310.9200134277344,
+      "end": 313.760009765625,
+      "text": " Turn around bright eyes",
+      "tokens": [
+        50614,
+        7956,
+        926,
+        4730,
+        2575,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38782408833503723,
+      "compression_ratio": 1.419354796409607,
+      "no_speech_prob": 0.26065629720687866
+    },
+    {
+      "id": 72,
+      "seek": 30624,
+      "start": 318.239990234375,
+      "end": 321.4599914550781,
+      "text": " Turn around bright eyes",
+      "tokens": [
+        50964,
+        7956,
+        926,
+        4730,
+        2575,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38782408833503723,
+      "compression_ratio": 1.419354796409607,
+      "no_speech_prob": 0.26065629720687866
+    },
+    {
+      "id": 73,
+      "seek": 30624,
+      "start": 322.239990234375,
+      "end": 324.1600036621094,
+      "text": " Turn around",
+      "tokens": [
+        51164,
+        7956,
+        926,
+        51314
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38782408833503723,
+      "compression_ratio": 1.419354796409607,
+      "no_speech_prob": 0.26065629720687866
+    }
+  ],
+  "words": [
+    {
+      "word": "Turn",
+      "start": 7.679999828338623,
+      "end": 8.5600004196167
+    },
+    {
+      "word": "around",
+      "start": 8.5600004196167,
+      "end": 9.4399995803833
+    },
+    {
+      "word": "Every",
+      "start": 9.619999885559082,
+      "end": 10.0600004196167
+    },
+    {
+      "word": "now",
+      "start": 10.0600004196167,
+      "end": 10.420000076293945
+    },
+    {
+      "word": "and",
+      "start": 10.420000076293945,
+      "end": 10.819999694824219
+    },
+    {
+      "word": "then",
+      "start": 10.819999694824219,
+      "end": 10.899999618530273
+    },
+    {
+      "word": "I",
+      "start": 10.899999618530273,
+      "end": 11.039999961853027
+    },
+    {
+      "word": "get",
+      "start": 11.039999961853027,
+      "end": 11.319999694824219
+    },
+    {
+      "word": "a",
+      "start": 11.319999694824219,
+      "end": 11.579999923706055
+    },
+    {
+      "word": "little",
+      "start": 11.579999923706055,
+      "end": 11.880000114440918
+    },
+    {
+      "word": "bit",
+      "start": 11.880000114440918,
+      "end": 12.319999694824219
+    },
+    {
+      "word": "lonely",
+      "start": 12.319999694824219,
+      "end": 12.779999732971191
+    },
+    {
+      "word": "and",
+      "start": 12.779999732971191,
+      "end": 13.220000267028809
+    },
+    {
+      "word": "you're",
+      "start": 13.220000267028809,
+      "end": 13.680000305175781
+    },
+    {
+      "word": "never",
+      "start": 13.680000305175781,
+      "end": 13.819999694824219
+    },
+    {
+      "word": "coming",
+      "start": 13.819999694824219,
+      "end": 14.399999618530273
+    },
+    {
+      "word": "around",
+      "start": 14.399999618530273,
+      "end": 15.020000457763672
+    },
+    {
+      "word": "Turn",
+      "start": 15.119999885559082,
+      "end": 16
+    },
+    {
+      "word": "around",
+      "start": 16,
+      "end": 16.8799991607666
+    },
+    {
+      "word": "Every",
+      "start": 16.8799991607666,
+      "end": 17.639999389648438
+    },
+    {
+      "word": "now",
+      "start": 17.639999389648438,
+      "end": 17.979999542236328
+    },
+    {
+      "word": "and",
+      "start": 17.979999542236328,
+      "end": 18.420000076293945
+    },
+    {
+      "word": "then",
+      "start": 18.420000076293945,
+      "end": 18.420000076293945
+    },
+    {
+      "word": "I",
+      "start": 18.420000076293945,
+      "end": 18.65999984741211
+    },
+    {
+      "word": "get",
+      "start": 18.65999984741211,
+      "end": 18.81999969482422
+    },
+    {
+      "word": "a",
+      "start": 18.81999969482422,
+      "end": 19.31999969482422
+    },
+    {
+      "word": "little",
+      "start": 19.31999969482422,
+      "end": 19.399999618530273
+    },
+    {
+      "word": "bit",
+      "start": 19.399999618530273,
+      "end": 20.200000762939453
+    },
+    {
+      "word": "tired",
+      "start": 20.200000762939453,
+      "end": 20.31999969482422
+    },
+    {
+      "word": "of",
+      "start": 20.31999969482422,
+      "end": 21.260000228881836
+    },
+    {
+      "word": "listening",
+      "start": 21.260000228881836,
+      "end": 21.260000228881836
+    },
+    {
+      "word": "to",
+      "start": 21.260000228881836,
+      "end": 21.600000381469727
+    },
+    {
+      "word": "the",
+      "start": 21.600000381469727,
+      "end": 22.139999389648438
+    },
+    {
+      "word": "sound",
+      "start": 22.139999389648438,
+      "end": 22.219999313354492
+    },
+    {
+      "word": "of",
+      "start": 22.219999313354492,
+      "end": 22.420000076293945
+    },
+    {
+      "word": "my",
+      "start": 22.420000076293945,
+      "end": 22.860000610351562
+    },
+    {
+      "word": "tears",
+      "start": 22.860000610351562,
+      "end": 22.860000610351562
+    },
+    {
+      "word": "Turn",
+      "start": 22.860000610351562,
+      "end": 23.420000076293945
+    },
+    {
+      "word": "around",
+      "start": 23.420000076293945,
+      "end": 24.3799991607666
+    },
+    {
+      "word": "Every",
+      "start": 24.3799991607666,
+      "end": 25
+    },
+    {
+      "word": "now",
+      "start": 25,
+      "end": 25.520000457763672
+    },
+    {
+      "word": "and",
+      "start": 25.520000457763672,
+      "end": 25.559999465942383
+    },
+    {
+      "word": "then",
+      "start": 25.559999465942383,
+      "end": 25.8799991607666
+    },
+    {
+      "word": "I",
+      "start": 25.8799991607666,
+      "end": 25.959999084472656
+    },
+    {
+      "word": "get",
+      "start": 25.959999084472656,
+      "end": 26.280000686645508
+    },
+    {
+      "word": "a",
+      "start": 26.280000686645508,
+      "end": 26.520000457763672
+    },
+    {
+      "word": "little",
+      "start": 26.520000457763672,
+      "end": 26.739999771118164
+    },
+    {
+      "word": "bit",
+      "start": 26.739999771118164,
+      "end": 27.299999237060547
+    },
+    {
+      "word": "nervous",
+      "start": 27.299999237060547,
+      "end": 27.780000686645508
+    },
+    {
+      "word": "that",
+      "start": 27.780000686645508,
+      "end": 28.15999984741211
+    },
+    {
+      "word": "the",
+      "start": 28.15999984741211,
+      "end": 28.420000076293945
+    },
+    {
+      "word": "best",
+      "start": 28.420000076293945,
+      "end": 28.760000228881836
+    },
+    {
+      "word": "of",
+      "start": 28.760000228881836,
+      "end": 28.959999084472656
+    },
+    {
+      "word": "all",
+      "start": 28.959999084472656,
+      "end": 29.18000030517578
+    },
+    {
+      "word": "the",
+      "start": 29.18000030517578,
+      "end": 29.540000915527344
+    },
+    {
+      "word": "years",
+      "start": 29.540000915527344,
+      "end": 29.700000762939453
+    },
+    {
+      "word": "have",
+      "start": 29.700000762939453,
+      "end": 30.059999465942383
+    },
+    {
+      "word": "gone",
+      "start": 30.059999465942383,
+      "end": 30.15999984741211
+    },
+    {
+      "word": "by",
+      "start": 30.15999984741211,
+      "end": 30.440000534057617
+    },
+    {
+      "word": "Turn",
+      "start": 31.920000076293945,
+      "end": 32.560001373291016
+    },
+    {
+      "word": "around",
+      "start": 32.560001373291016,
+      "end": 32.560001373291016
+    },
+    {
+      "word": "Every",
+      "start": 32.560001373291016,
+      "end": 32.560001373291016
+    },
+    {
+      "word": "now",
+      "start": 32.560001373291016,
+      "end": 32.900001525878906
+    },
+    {
+      "word": "and",
+      "start": 32.900001525878906,
+      "end": 33.279998779296875
+    },
+    {
+      "word": "then",
+      "start": 33.279998779296875,
+      "end": 33.36000061035156
+    },
+    {
+      "word": "I",
+      "start": 33.36000061035156,
+      "end": 33.58000183105469
+    },
+    {
+      "word": "get",
+      "start": 33.58000183105469,
+      "end": 33.779998779296875
+    },
+    {
+      "word": "a",
+      "start": 33.779998779296875,
+      "end": 34.34000015258789
+    },
+    {
+      "word": "little",
+      "start": 34.34000015258789,
+      "end": 34.34000015258789
+    },
+    {
+      "word": "bit",
+      "start": 34.34000015258789,
+      "end": 34.880001068115234
+    },
+    {
+      "word": "terrified",
+      "start": 34.880001068115234,
+      "end": 35.5
+    },
+    {
+      "word": "and",
+      "start": 35.5,
+      "end": 35.959999084472656
+    },
+    {
+      "word": "then",
+      "start": 35.959999084472656,
+      "end": 36.2599983215332
+    },
+    {
+      "word": "I",
+      "start": 36.2599983215332,
+      "end": 36.52000045776367
+    },
+    {
+      "word": "see",
+      "start": 36.52000045776367,
+      "end": 36.560001373291016
+    },
+    {
+      "word": "the",
+      "start": 36.560001373291016,
+      "end": 36.86000061035156
+    },
+    {
+      "word": "look",
+      "start": 36.86000061035156,
+      "end": 37.13999938964844
+    },
+    {
+      "word": "in",
+      "start": 37.13999938964844,
+      "end": 37.31999969482422
+    },
+    {
+      "word": "your",
+      "start": 37.31999969482422,
+      "end": 37.599998474121094
+    },
+    {
+      "word": "eyes",
+      "start": 37.599998474121094,
+      "end": 37.7400016784668
+    },
+    {
+      "word": "Turn",
+      "start": 38.13999938964844,
+      "end": 38.779998779296875
+    },
+    {
+      "word": "around",
+      "start": 38.779998779296875,
+      "end": 39.41999816894531
+    },
+    {
+      "word": "bright",
+      "start": 39.63999938964844,
+      "end": 40.52000045776367
+    },
+    {
+      "word": "eyes",
+      "start": 40.52000045776367,
+      "end": 41.380001068115234
+    },
+    {
+      "word": "Every",
+      "start": 41.380001068115234,
+      "end": 41.86000061035156
+    },
+    {
+      "word": "now",
+      "start": 41.86000061035156,
+      "end": 42.15999984741211
+    },
+    {
+      "word": "and",
+      "start": 42.15999984741211,
+      "end": 42.599998474121094
+    },
+    {
+      "word": "then",
+      "start": 42.599998474121094,
+      "end": 42.63999938964844
+    },
+    {
+      "word": "I",
+      "start": 42.63999938964844,
+      "end": 42.86000061035156
+    },
+    {
+      "word": "fall",
+      "start": 42.86000061035156,
+      "end": 43.20000076293945
+    },
+    {
+      "word": "apart",
+      "start": 43.20000076293945,
+      "end": 43.400001525878906
+    },
+    {
+      "word": "Turn",
+      "start": 43.63999938964844,
+      "end": 44.279998779296875
+    },
+    {
+      "word": "around",
+      "start": 44.279998779296875,
+      "end": 44.91999816894531
+    },
+    {
+      "word": "bright",
+      "start": 44.97999954223633,
+      "end": 46.08000183105469
+    },
+    {
+      "word": "eyes",
+      "start": 46.08000183105469,
+      "end": 46.400001525878906
+    },
+    {
+      "word": "Every",
+      "start": 46.880001068115234,
+      "end": 47.439998626708984
+    },
+    {
+      "word": "now",
+      "start": 47.439998626708984,
+      "end": 47.720001220703125
+    },
+    {
+      "word": "and",
+      "start": 47.720001220703125,
+      "end": 48.119998931884766
+    },
+    {
+      "word": "then",
+      "start": 48.119998931884766,
+      "end": 48.15999984741211
+    },
+    {
+      "word": "I",
+      "start": 48.15999984741211,
+      "end": 48.400001525878906
+    },
+    {
+      "word": "fall",
+      "start": 48.400001525878906,
+      "end": 48.70000076293945
+    },
+    {
+      "word": "apart",
+      "start": 48.70000076293945,
+      "end": 49.119998931884766
+    },
+    {
+      "word": "Turn",
+      "start": 50.08000183105469,
+      "end": 50.720001220703125
+    },
+    {
+      "word": "around",
+      "start": 50.720001220703125,
+      "end": 50.720001220703125
+    },
+    {
+      "word": "Every",
+      "start": 50.720001220703125,
+      "end": 51.20000076293945
+    },
+    {
+      "word": "now",
+      "start": 51.20000076293945,
+      "end": 51.58000183105469
+    },
+    {
+      "word": "and",
+      "start": 51.58000183105469,
+      "end": 51.70000076293945
+    },
+    {
+      "word": "then",
+      "start": 51.70000076293945,
+      "end": 52.060001373291016
+    },
+    {
+      "word": "I",
+      "start": 52.060001373291016,
+      "end": 52.099998474121094
+    },
+    {
+      "word": "get",
+      "start": 52.099998474121094,
+      "end": 52.380001068115234
+    },
+    {
+      "word": "a",
+      "start": 52.380001068115234,
+      "end": 52.63999938964844
+    },
+    {
+      "word": "little",
+      "start": 52.63999938964844,
+      "end": 52.959999084472656
+    },
+    {
+      "word": "bit",
+      "start": 52.959999084472656,
+      "end": 53.36000061035156
+    },
+    {
+      "word": "restless",
+      "start": 53.36000061035156,
+      "end": 53.79999923706055
+    },
+    {
+      "word": "and",
+      "start": 53.79999923706055,
+      "end": 54.15999984741211
+    },
+    {
+      "word": "I",
+      "start": 54.15999984741211,
+      "end": 54.5
+    },
+    {
+      "word": "dream",
+      "start": 54.5,
+      "end": 54.720001220703125
+    },
+    {
+      "word": "of",
+      "start": 54.720001220703125,
+      "end": 54.97999954223633
+    },
+    {
+      "word": "something",
+      "start": 54.97999954223633,
+      "end": 55.36000061035156
+    },
+    {
+      "word": "wild",
+      "start": 55.36000061035156,
+      "end": 56.08000183105469
+    },
+    {
+      "word": "Turn",
+      "start": 56.18000030517578,
+      "end": 56.900001525878906
+    },
+    {
+      "word": "around",
+      "start": 56.900001525878906,
+      "end": 57.619998931884766
+    },
+    {
+      "word": "Every",
+      "start": 57.84000015258789,
+      "end": 58.560001373291016
+    },
+    {
+      "word": "now",
+      "start": 58.560001373291016,
+      "end": 58.880001068115234
+    },
+    {
+      "word": "and",
+      "start": 58.880001068115234,
+      "end": 59.29999923706055
+    },
+    {
+      "word": "then",
+      "start": 59.29999923706055,
+      "end": 59.34000015258789
+    },
+    {
+      "word": "I",
+      "start": 59.34000015258789,
+      "end": 59.58000183105469
+    },
+    {
+      "word": "get",
+      "start": 59.58000183105469,
+      "end": 59.79999923706055
+    },
+    {
+      "word": "a",
+      "start": 59.79999923706055,
+      "end": 60.08000183105469
+    },
+    {
+      "word": "little",
+      "start": 60.08000183105469,
+      "end": 60.34000015258789
+    },
+    {
+      "word": "bit",
+      "start": 60.34000015258789,
+      "end": 60.7400016784668
+    },
+    {
+      "word": "helpless",
+      "start": 60.7400016784668,
+      "end": 61.220001220703125
+    },
+    {
+      "word": "and",
+      "start": 61.220001220703125,
+      "end": 61.65999984741211
+    },
+    {
+      "word": "I'm",
+      "start": 61.65999984741211,
+      "end": 62.2400016784668
+    },
+    {
+      "word": "lying",
+      "start": 62.2400016784668,
+      "end": 62.2400016784668
+    },
+    {
+      "word": "like",
+      "start": 62.2400016784668,
+      "end": 62.560001373291016
+    },
+    {
+      "word": "a",
+      "start": 62.560001373291016,
+      "end": 63.099998474121094
+    },
+    {
+      "word": "child",
+      "start": 63.099998474121094,
+      "end": 63.099998474121094
+    },
+    {
+      "word": "in",
+      "start": 63.099998474121094,
+      "end": 63.2400016784668
+    },
+    {
+      "word": "your",
+      "start": 63.2400016784668,
+      "end": 63.68000030517578
+    },
+    {
+      "word": "arms",
+      "start": 63.68000030517578,
+      "end": 63.68000030517578
+    },
+    {
+      "word": "Turn",
+      "start": 63.720001220703125,
+      "end": 64.44000244140625
+    },
+    {
+      "word": "around",
+      "start": 64.44000244140625,
+      "end": 65.16000366210938
+    },
+    {
+      "word": "Every",
+      "start": 65.33999633789062,
+      "end": 66.05999755859375
+    },
+    {
+      "word": "now",
+      "start": 66.05999755859375,
+      "end": 66.33999633789062
+    },
+    {
+      "word": "and",
+      "start": 66.33999633789062,
+      "end": 66.73999786376953
+    },
+    {
+      "word": "then",
+      "start": 66.73999786376953,
+      "end": 66.73999786376953
+    },
+    {
+      "word": "I",
+      "start": 66.73999786376953,
+      "end": 67.04000091552734
+    },
+    {
+      "word": "get",
+      "start": 67.04000091552734,
+      "end": 67.19999694824219
+    },
+    {
+      "word": "a",
+      "start": 67.19999694824219,
+      "end": 67.86000061035156
+    },
+    {
+      "word": "little",
+      "start": 67.86000061035156,
+      "end": 67.86000061035156
+    },
+    {
+      "word": "bit",
+      "start": 67.86000061035156,
+      "end": 68.27999877929688
+    },
+    {
+      "word": "angry",
+      "start": 68.27999877929688,
+      "end": 68.68000030517578
+    },
+    {
+      "word": "and",
+      "start": 68.68000030517578,
+      "end": 69.08000183105469
+    },
+    {
+      "word": "I",
+      "start": 69.08000183105469,
+      "end": 69.36000061035156
+    },
+    {
+      "word": "know",
+      "start": 69.36000061035156,
+      "end": 69.5999984741211
+    },
+    {
+      "word": "I've",
+      "start": 69.5999984741211,
+      "end": 70
+    },
+    {
+      "word": "got",
+      "start": 70,
+      "end": 70
+    },
+    {
+      "word": "to",
+      "start": 70,
+      "end": 70.33999633789062
+    },
+    {
+      "word": "get",
+      "start": 70.33999633789062,
+      "end": 70.5199966430664
+    },
+    {
+      "word": "out",
+      "start": 70.5199966430664,
+      "end": 70.87999725341797
+    },
+    {
+      "word": "and",
+      "start": 70.87999725341797,
+      "end": 70.95999908447266
+    },
+    {
+      "word": "cry",
+      "start": 70.95999908447266,
+      "end": 71.12000274658203
+    },
+    {
+      "word": "Turn",
+      "start": 71.12000274658203,
+      "end": 71.66000366210938
+    },
+    {
+      "word": "around",
+      "start": 71.66000366210938,
+      "end": 72.5
+    },
+    {
+      "word": "Every",
+      "start": 72.66000366210938,
+      "end": 73.37999725341797
+    },
+    {
+      "word": "now",
+      "start": 73.37999725341797,
+      "end": 73.63999938964844
+    },
+    {
+      "word": "and",
+      "start": 73.63999938964844,
+      "end": 74.0199966430664
+    },
+    {
+      "word": "then",
+      "start": 74.0199966430664,
+      "end": 74.05999755859375
+    },
+    {
+      "word": "I",
+      "start": 74.05999755859375,
+      "end": 74.4800033569336
+    },
+    {
+      "word": "get",
+      "start": 74.4800033569336,
+      "end": 74.5
+    },
+    {
+      "word": "a",
+      "start": 74.5,
+      "end": 75.13999938964844
+    },
+    {
+      "word": "little",
+      "start": 75.13999938964844,
+      "end": 75.13999938964844
+    },
+    {
+      "word": "bit",
+      "start": 75.13999938964844,
+      "end": 75.5
+    },
+    {
+      "word": "terrified",
+      "start": 75.5,
+      "end": 76.12000274658203
+    },
+    {
+      "word": "but",
+      "start": 76.12000274658203,
+      "end": 76.5199966430664
+    },
+    {
+      "word": "then",
+      "start": 76.5199966430664,
+      "end": 76.86000061035156
+    },
+    {
+      "word": "I",
+      "start": 76.86000061035156,
+      "end": 77.08000183105469
+    },
+    {
+      "word": "see",
+      "start": 77.08000183105469,
+      "end": 77.23999786376953
+    },
+    {
+      "word": "the",
+      "start": 77.23999786376953,
+      "end": 77.45999908447266
+    },
+    {
+      "word": "look",
+      "start": 77.45999908447266,
+      "end": 77.72000122070312
+    },
+    {
+      "word": "in",
+      "start": 77.72000122070312,
+      "end": 77.9000015258789
+    },
+    {
+      "word": "your",
+      "start": 77.9000015258789,
+      "end": 78.22000122070312
+    },
+    {
+      "word": "eyes",
+      "start": 78.22000122070312,
+      "end": 78.77999877929688
+    },
+    {
+      "word": "Turn",
+      "start": 78.77999877929688,
+      "end": 79.05999755859375
+    },
+    {
+      "word": "around",
+      "start": 79.05999755859375,
+      "end": 79.5999984741211
+    },
+    {
+      "word": "bright",
+      "start": 80.16000366210938,
+      "end": 81.22000122070312
+    },
+    {
+      "word": "eyes",
+      "start": 81.22000122070312,
+      "end": 81.95999908447266
+    },
+    {
+      "word": "Every",
+      "start": 81.95999908447266,
+      "end": 82.5
+    },
+    {
+      "word": "now",
+      "start": 82.5,
+      "end": 82.77999877929688
+    },
+    {
+      "word": "and",
+      "start": 82.77999877929688,
+      "end": 83.0199966430664
+    },
+    {
+      "word": "then",
+      "start": 83.0199966430664,
+      "end": 83.23999786376953
+    },
+    {
+      "word": "I",
+      "start": 83.23999786376953,
+      "end": 83.63999938964844
+    },
+    {
+      "word": "fall",
+      "start": 83.63999938964844,
+      "end": 83.69999694824219
+    },
+    {
+      "word": "apart",
+      "start": 83.69999694824219,
+      "end": 83.87999725341797
+    },
+    {
+      "word": "Turn",
+      "start": 83.95999908447266,
+      "end": 84.87999725341797
+    },
+    {
+      "word": "around",
+      "start": 84.87999725341797,
+      "end": 85.22000122070312
+    },
+    {
+      "word": "bright",
+      "start": 86.45999908447266,
+      "end": 86.68000030517578
+    },
+    {
+      "word": "eyes",
+      "start": 86.68000030517578,
+      "end": 87.13999938964844
+    },
+    {
+      "word": "Every",
+      "start": 87.5199966430664,
+      "end": 88.04000091552734
+    },
+    {
+      "word": "now",
+      "start": 88.04000091552734,
+      "end": 88.26000213623047
+    },
+    {
+      "word": "and",
+      "start": 88.26000213623047,
+      "end": 88.68000030517578
+    },
+    {
+      "word": "then",
+      "start": 88.68000030517578,
+      "end": 88.73999786376953
+    },
+    {
+      "word": "I",
+      "start": 88.73999786376953,
+      "end": 89.13999938964844
+    },
+    {
+      "word": "fall",
+      "start": 89.13999938964844,
+      "end": 89.19999694824219
+    },
+    {
+      "word": "apart",
+      "start": 89.19999694824219,
+      "end": 90.26000213623047
+    },
+    {
+      "word": "And",
+      "start": 90.26000213623047,
+      "end": 91.0199966430664
+    },
+    {
+      "word": "I",
+      "start": 91.0199966430664,
+      "end": 91.33999633789062
+    },
+    {
+      "word": "need",
+      "start": 91.33999633789062,
+      "end": 91.77999877929688
+    },
+    {
+      "word": "you",
+      "start": 91.77999877929688,
+      "end": 91.9800033569336
+    },
+    {
+      "word": "now",
+      "start": 91.9800033569336,
+      "end": 92.58000183105469
+    },
+    {
+      "word": "tonight",
+      "start": 92.58000183105469,
+      "end": 93.5199966430664
+    },
+    {
+      "word": "And",
+      "start": 93.76000213623047,
+      "end": 94.68000030517578
+    },
+    {
+      "word": "I",
+      "start": 94.68000030517578,
+      "end": 94.9800033569336
+    },
+    {
+      "word": "need",
+      "start": 94.9800033569336,
+      "end": 95.45999908447266
+    },
+    {
+      "word": "you",
+      "start": 95.45999908447266,
+      "end": 95.68000030517578
+    },
+    {
+      "word": "more",
+      "start": 95.68000030517578,
+      "end": 96.31999969482422
+    },
+    {
+      "word": "than",
+      "start": 96.31999969482422,
+      "end": 96.63999938964844
+    },
+    {
+      "word": "ever",
+      "start": 96.63999938964844,
+      "end": 97.5
+    },
+    {
+      "word": "And",
+      "start": 97.5,
+      "end": 98.27999877929688
+    },
+    {
+      "word": "if",
+      "start": 98.27999877929688,
+      "end": 98.41999816894531
+    },
+    {
+      "word": "you",
+      "start": 98.41999816894531,
+      "end": 98.80000305175781
+    },
+    {
+      "word": "only",
+      "start": 98.80000305175781,
+      "end": 99.26000213623047
+    },
+    {
+      "word": "hold",
+      "start": 99.26000213623047,
+      "end": 99.9000015258789
+    },
+    {
+      "word": "me",
+      "start": 99.9000015258789,
+      "end": 100.19999694824219
+    },
+    {
+      "word": "tight",
+      "start": 100.19999694824219,
+      "end": 100.83999633789062
+    },
+    {
+      "word": "We'll",
+      "start": 101.05999755859375,
+      "end": 101.9800033569336
+    },
+    {
+      "word": "be",
+      "start": 101.9800033569336,
+      "end": 102.4800033569336
+    },
+    {
+      "word": "holding",
+      "start": 102.4800033569336,
+      "end": 102.94000244140625
+    },
+    {
+      "word": "on",
+      "start": 102.94000244140625,
+      "end": 103.77999877929688
+    },
+    {
+      "word": "forever",
+      "start": 103.77999877929688,
+      "end": 104.45999908447266
+    },
+    {
+      "word": "And",
+      "start": 104.45999908447266,
+      "end": 104.58000183105469
+    },
+    {
+      "word": "we'll",
+      "start": 104.58000183105469,
+      "end": 105.66000366210938
+    },
+    {
+      "word": "only",
+      "start": 105.66000366210938,
+      "end": 106.26000213623047
+    },
+    {
+      "word": "be",
+      "start": 106.26000213623047,
+      "end": 106.54000091552734
+    },
+    {
+      "word": "making",
+      "start": 106.54000091552734,
+      "end": 107.16000366210938
+    },
+    {
+      "word": "it",
+      "start": 107.16000366210938,
+      "end": 107.5199966430664
+    },
+    {
+      "word": "right",
+      "start": 107.5199966430664,
+      "end": 108.23999786376953
+    },
+    {
+      "word": "Because",
+      "start": 108.54000091552734,
+      "end": 109.18000030517578
+    },
+    {
+      "word": "we'll",
+      "start": 109.18000030517578,
+      "end": 109.4000015258789
+    },
+    {
+      "word": "never",
+      "start": 109.4000015258789,
+      "end": 109.69999694824219
+    },
+    {
+      "word": "be",
+      "start": 109.69999694824219,
+      "end": 110.80000305175781
+    },
+    {
+      "word": "wrong",
+      "start": 110.80000305175781,
+      "end": 110.95999908447266
+    },
+    {
+      "word": "Together",
+      "start": 110.95999908447266,
+      "end": 111.54000091552734
+    },
+    {
+      "word": "we",
+      "start": 111.54000091552734,
+      "end": 111.87999725341797
+    },
+    {
+      "word": "can",
+      "start": 111.87999725341797,
+      "end": 112.0999984741211
+    },
+    {
+      "word": "take",
+      "start": 112.0999984741211,
+      "end": 112.41999816894531
+    },
+    {
+      "word": "it",
+      "start": 112.41999816894531,
+      "end": 112.62000274658203
+    },
+    {
+      "word": "to",
+      "start": 112.62000274658203,
+      "end": 112.80000305175781
+    },
+    {
+      "word": "the",
+      "start": 112.80000305175781,
+      "end": 113.36000061035156
+    },
+    {
+      "word": "end",
+      "start": 113.36000061035156,
+      "end": 113.37999725341797
+    },
+    {
+      "word": "of",
+      "start": 113.37999725341797,
+      "end": 113.68000030517578
+    },
+    {
+      "word": "the",
+      "start": 113.68000030517578,
+      "end": 113.73999786376953
+    },
+    {
+      "word": "line",
+      "start": 113.73999786376953,
+      "end": 114.44000244140625
+    },
+    {
+      "word": "Your",
+      "start": 114.44000244140625,
+      "end": 114.87999725341797
+    },
+    {
+      "word": "love",
+      "start": 114.87999725341797,
+      "end": 115.12000274658203
+    },
+    {
+      "word": "is",
+      "start": 115.12000274658203,
+      "end": 115.30000305175781
+    },
+    {
+      "word": "like",
+      "start": 115.30000305175781,
+      "end": 115.58000183105469
+    },
+    {
+      "word": "a",
+      "start": 115.58000183105469,
+      "end": 115.77999877929688
+    },
+    {
+      "word": "shadow",
+      "start": 115.77999877929688,
+      "end": 116.0999984741211
+    },
+    {
+      "word": "on",
+      "start": 116.0999984741211,
+      "end": 116.44000244140625
+    },
+    {
+      "word": "me",
+      "start": 116.44000244140625,
+      "end": 116.86000061035156
+    },
+    {
+      "word": "all",
+      "start": 116.86000061035156,
+      "end": 116.95999908447266
+    },
+    {
+      "word": "of",
+      "start": 116.95999908447266,
+      "end": 117.30000305175781
+    },
+    {
+      "word": "the",
+      "start": 117.30000305175781,
+      "end": 117.31999969482422
+    },
+    {
+      "word": "time",
+      "start": 117.31999969482422,
+      "end": 118.33999633789062
+    },
+    {
+      "word": "I",
+      "start": 119.58000183105469,
+      "end": 120.22000122070312
+    },
+    {
+      "word": "don't",
+      "start": 120.22000122070312,
+      "end": 120.45999908447266
+    },
+    {
+      "word": "know",
+      "start": 120.45999908447266,
+      "end": 120.66000366210938
+    },
+    {
+      "word": "what",
+      "start": 120.66000366210938,
+      "end": 120.86000061035156
+    },
+    {
+      "word": "to",
+      "start": 120.86000061035156,
+      "end": 121.0999984741211
+    },
+    {
+      "word": "do",
+      "start": 121.0999984741211,
+      "end": 121.37999725341797
+    },
+    {
+      "word": "and",
+      "start": 121.37999725341797,
+      "end": 121.62000274658203
+    },
+    {
+      "word": "I'm",
+      "start": 121.62000274658203,
+      "end": 121.87999725341797
+    },
+    {
+      "word": "always",
+      "start": 121.87999725341797,
+      "end": 122.4800033569336
+    },
+    {
+      "word": "in",
+      "start": 122.4800033569336,
+      "end": 122.86000061035156
+    },
+    {
+      "word": "the",
+      "start": 122.86000061035156,
+      "end": 123.30000305175781
+    },
+    {
+      "word": "dark",
+      "start": 123.30000305175781,
+      "end": 123.33999633789062
+    },
+    {
+      "word": "We're",
+      "start": 123.37999725341797,
+      "end": 124.0199966430664
+    },
+    {
+      "word": "living",
+      "start": 124.0199966430664,
+      "end": 124.22000122070312
+    },
+    {
+      "word": "in",
+      "start": 124.22000122070312,
+      "end": 124.66000366210938
+    },
+    {
+      "word": "a",
+      "start": 124.66000366210938,
+      "end": 124.81999969482422
+    },
+    {
+      "word": "powder",
+      "start": 124.81999969482422,
+      "end": 125.13999938964844
+    },
+    {
+      "word": "keg",
+      "start": 125.13999938964844,
+      "end": 125.36000061035156
+    },
+    {
+      "word": "and",
+      "start": 125.36000061035156,
+      "end": 125.68000030517578
+    },
+    {
+      "word": "giving",
+      "start": 125.68000030517578,
+      "end": 125.83999633789062
+    },
+    {
+      "word": "up",
+      "start": 125.83999633789062,
+      "end": 126.16000366210938
+    },
+    {
+      "word": "is",
+      "start": 126.16000366210938,
+      "end": 127.27999877929688
+    },
+    {
+      "word": "wrong",
+      "start": 127.27999877929688,
+      "end": 127.30000305175781
+    },
+    {
+      "word": "I",
+      "start": 127.30000305175781,
+      "end": 127.77999877929688
+    },
+    {
+      "word": "really",
+      "start": 127.77999877929688,
+      "end": 128.16000366210938
+    },
+    {
+      "word": "need",
+      "start": 128.16000366210938,
+      "end": 128.5
+    },
+    {
+      "word": "you",
+      "start": 128.5,
+      "end": 128.74000549316406
+    },
+    {
+      "word": "tonight",
+      "start": 128.74000549316406,
+      "end": 129.6199951171875
+    },
+    {
+      "word": "Forever's",
+      "start": 130.82000732421875,
+      "end": 131.4600067138672
+    },
+    {
+      "word": "gonna",
+      "start": 131.4600067138672,
+      "end": 131.77999877929688
+    },
+    {
+      "word": "start",
+      "start": 131.77999877929688,
+      "end": 132.25999450683594
+    },
+    {
+      "word": "tonight",
+      "start": 132.25999450683594,
+      "end": 133.27999877929688
+    },
+    {
+      "word": "Forever's",
+      "start": 134.27999877929688,
+      "end": 135
+    },
+    {
+      "word": "gonna",
+      "start": 135,
+      "end": 135.33999633789062
+    },
+    {
+      "word": "start",
+      "start": 135.33999633789062,
+      "end": 135.9600067138672
+    },
+    {
+      "word": "tonight",
+      "start": 135.9600067138672,
+      "end": 136.32000732421875
+    },
+    {
+      "word": "Once",
+      "start": 136.8000030517578,
+      "end": 136.9199981689453
+    },
+    {
+      "word": "upon",
+      "start": 136.9199981689453,
+      "end": 137.1199951171875
+    },
+    {
+      "word": "a",
+      "start": 137.1199951171875,
+      "end": 137.52000427246094
+    },
+    {
+      "word": "time",
+      "start": 137.52000427246094,
+      "end": 137.6999969482422
+    },
+    {
+      "word": "I",
+      "start": 137.6999969482422,
+      "end": 138
+    },
+    {
+      "word": "was",
+      "start": 138,
+      "end": 138.17999267578125
+    },
+    {
+      "word": "falling",
+      "start": 138.17999267578125,
+      "end": 138.6999969482422
+    },
+    {
+      "word": "in",
+      "start": 138.6999969482422,
+      "end": 139.55999755859375
+    },
+    {
+      "word": "love",
+      "start": 139.55999755859375,
+      "end": 139.55999755859375
+    },
+    {
+      "word": "Now",
+      "start": 139.6199951171875,
+      "end": 140.33999633789062
+    },
+    {
+      "word": "I'm",
+      "start": 140.33999633789062,
+      "end": 140.55999755859375
+    },
+    {
+      "word": "only",
+      "start": 140.55999755859375,
+      "end": 141.02000427246094
+    },
+    {
+      "word": "falling",
+      "start": 141.02000427246094,
+      "end": 141.5
+    },
+    {
+      "word": "apart",
+      "start": 141.5,
+      "end": 142.5
+    },
+    {
+      "word": "There's",
+      "start": 144.82000732421875,
+      "end": 145.5399932861328
+    },
+    {
+      "word": "nothing",
+      "start": 145.5399932861328,
+      "end": 145.86000061035156
+    },
+    {
+      "word": "I",
+      "start": 145.86000061035156,
+      "end": 146.22000122070312
+    },
+    {
+      "word": "can",
+      "start": 146.22000122070312,
+      "end": 146.4600067138672
+    },
+    {
+      "word": "do",
+      "start": 146.4600067138672,
+      "end": 146.97999572753906
+    },
+    {
+      "word": "a",
+      "start": 147.1999969482422,
+      "end": 147.4199981689453
+    },
+    {
+      "word": "total",
+      "start": 147.4199981689453,
+      "end": 147.89999389648438
+    },
+    {
+      "word": "eclipse",
+      "start": 147.89999389648438,
+      "end": 148.4600067138672
+    },
+    {
+      "word": "of",
+      "start": 148.4600067138672,
+      "end": 148.82000732421875
+    },
+    {
+      "word": "the",
+      "start": 148.82000732421875,
+      "end": 149.05999755859375
+    },
+    {
+      "word": "heart",
+      "start": 149.05999755859375,
+      "end": 149.4199981689453
+    },
+    {
+      "word": "Once",
+      "start": 156.0800018310547,
+      "end": 156.8000030517578
+    },
+    {
+      "word": "upon",
+      "start": 156.8000030517578,
+      "end": 157.1199951171875
+    },
+    {
+      "word": "a",
+      "start": 157.1199951171875,
+      "end": 157.8000030517578
+    },
+    {
+      "word": "time",
+      "start": 157.8000030517578,
+      "end": 157.8000030517578
+    },
+    {
+      "word": "there",
+      "start": 157.8000030517578,
+      "end": 158.17999267578125
+    },
+    {
+      "word": "was",
+      "start": 158.17999267578125,
+      "end": 158.33999633789062
+    },
+    {
+      "word": "light",
+      "start": 158.33999633789062,
+      "end": 158.6999969482422
+    },
+    {
+      "word": "in",
+      "start": 158.6999969482422,
+      "end": 158.9199981689453
+    },
+    {
+      "word": "my",
+      "start": 158.9199981689453,
+      "end": 159.16000366210938
+    },
+    {
+      "word": "life",
+      "start": 159.16000366210938,
+      "end": 159.67999267578125
+    },
+    {
+      "word": "But",
+      "start": 159.67999267578125,
+      "end": 160.32000732421875
+    },
+    {
+      "word": "now",
+      "start": 160.32000732421875,
+      "end": 160.60000610351562
+    },
+    {
+      "word": "there's",
+      "start": 160.60000610351562,
+      "end": 160.82000732421875
+    },
+    {
+      "word": "only",
+      "start": 160.82000732421875,
+      "end": 161.22000122070312
+    },
+    {
+      "word": "love",
+      "start": 161.22000122070312,
+      "end": 161.55999755859375
+    },
+    {
+      "word": "in",
+      "start": 161.55999755859375,
+      "end": 161.82000732421875
+    },
+    {
+      "word": "the",
+      "start": 161.82000732421875,
+      "end": 162.22000122070312
+    },
+    {
+      "word": "dark",
+      "start": 162.22000122070312,
+      "end": 162.5399932861328
+    },
+    {
+      "word": "Nothing",
+      "start": 163.5399932861328,
+      "end": 164.4199981689453
+    },
+    {
+      "word": "I",
+      "start": 164.4199981689453,
+      "end": 164.74000549316406
+    },
+    {
+      "word": "can",
+      "start": 164.74000549316406,
+      "end": 164.97999572753906
+    },
+    {
+      "word": "say",
+      "start": 164.97999572753906,
+      "end": 165.47999572753906
+    },
+    {
+      "word": "a",
+      "start": 166.3800048828125,
+      "end": 166.3800048828125
+    },
+    {
+      "word": "total",
+      "start": 166.3800048828125,
+      "end": 166.39999389648438
+    },
+    {
+      "word": "eclipse",
+      "start": 166.39999389648438,
+      "end": 166.97999572753906
+    },
+    {
+      "word": "of",
+      "start": 166.97999572753906,
+      "end": 167.36000061035156
+    },
+    {
+      "word": "the",
+      "start": 167.36000061035156,
+      "end": 167.72000122070312
+    },
+    {
+      "word": "heart",
+      "start": 167.72000122070312,
+      "end": 168.27999877929688
+    },
+    {
+      "word": "Turn",
+      "start": 207.47999572753906,
+      "end": 208.55999755859375
+    },
+    {
+      "word": "around",
+      "start": 208.55999755859375,
+      "end": 209.55999755859375
+    },
+    {
+      "word": "bright",
+      "start": 209.72000122070312,
+      "end": 210.5
+    },
+    {
+      "word": "eyes",
+      "start": 210.5,
+      "end": 211.16000366210938
+    },
+    {
+      "word": "Every",
+      "start": 211.16000366210938,
+      "end": 211.83999633789062
+    },
+    {
+      "word": "now",
+      "start": 211.83999633789062,
+      "end": 212.13999938964844
+    },
+    {
+      "word": "and",
+      "start": 212.13999938964844,
+      "end": 212.5
+    },
+    {
+      "word": "then",
+      "start": 212.5,
+      "end": 212.6199951171875
+    },
+    {
+      "word": "I",
+      "start": 212.6199951171875,
+      "end": 213.02000427246094
+    },
+    {
+      "word": "fall",
+      "start": 213.02000427246094,
+      "end": 213.05999755859375
+    },
+    {
+      "word": "apart",
+      "start": 213.05999755859375,
+      "end": 213.63999938964844
+    },
+    {
+      "word": "Turn",
+      "start": 213.63999938964844,
+      "end": 214.4600067138672
+    },
+    {
+      "word": "around",
+      "start": 214.4600067138672,
+      "end": 214.74000549316406
+    },
+    {
+      "word": "bright",
+      "start": 215.8000030517578,
+      "end": 215.8000030517578
+    },
+    {
+      "word": "eyes",
+      "start": 215.8000030517578,
+      "end": 216.39999389648438
+    },
+    {
+      "word": "Every",
+      "start": 216.39999389648438,
+      "end": 217.22000122070312
+    },
+    {
+      "word": "now",
+      "start": 217.22000122070312,
+      "end": 217.4600067138672
+    },
+    {
+      "word": "and",
+      "start": 217.4600067138672,
+      "end": 217.82000732421875
+    },
+    {
+      "word": "then",
+      "start": 217.82000732421875,
+      "end": 217.89999389648438
+    },
+    {
+      "word": "I",
+      "start": 217.89999389648438,
+      "end": 218.25999450683594
+    },
+    {
+      "word": "fall",
+      "start": 218.25999450683594,
+      "end": 218.3000030517578
+    },
+    {
+      "word": "apart",
+      "start": 218.3000030517578,
+      "end": 219.5
+    },
+    {
+      "word": "And",
+      "start": 219.5,
+      "end": 220.1199951171875
+    },
+    {
+      "word": "I",
+      "start": 220.1199951171875,
+      "end": 220.8000030517578
+    },
+    {
+      "word": "need",
+      "start": 220.8000030517578,
+      "end": 220.8000030517578
+    },
+    {
+      "word": "you",
+      "start": 220.8000030517578,
+      "end": 221.02000427246094
+    },
+    {
+      "word": "now",
+      "start": 221.02000427246094,
+      "end": 221.6199951171875
+    },
+    {
+      "word": "tonight",
+      "start": 221.6199951171875,
+      "end": 222.3800048828125
+    },
+    {
+      "word": "And",
+      "start": 222.3800048828125,
+      "end": 222.8800048828125
+    },
+    {
+      "word": "I",
+      "start": 222.8800048828125,
+      "end": 223.25999450683594
+    },
+    {
+      "word": "need",
+      "start": 223.25999450683594,
+      "end": 223.25999450683594
+    },
+    {
+      "word": "you",
+      "start": 223.25999450683594,
+      "end": 223.25999450683594
+    },
+    {
+      "word": "more",
+      "start": 223.25999450683594,
+      "end": 223.25999450683594
+    },
+    {
+      "word": "than",
+      "start": 223.25999450683594,
+      "end": 223.25999450683594
+    },
+    {
+      "word": "ever",
+      "start": 223.25999450683594,
+      "end": 223.25999450683594
+    },
+    {
+      "word": "And",
+      "start": 223.25999450683594,
+      "end": 223.5399932861328
+    },
+    {
+      "word": "I",
+      "start": 223.5399932861328,
+      "end": 223.83999633789062
+    },
+    {
+      "word": "need",
+      "start": 223.83999633789062,
+      "end": 224.3000030517578
+    },
+    {
+      "word": "you",
+      "start": 224.3000030517578,
+      "end": 224.55999755859375
+    },
+    {
+      "word": "more",
+      "start": 224.55999755859375,
+      "end": 225.25999450683594
+    },
+    {
+      "word": "than",
+      "start": 225.25999450683594,
+      "end": 225.5
+    },
+    {
+      "word": "ever",
+      "start": 225.5,
+      "end": 226.17999267578125
+    },
+    {
+      "word": "And",
+      "start": 226.3800048828125,
+      "end": 227.05999755859375
+    },
+    {
+      "word": "if",
+      "start": 227.05999755859375,
+      "end": 227.22000122070312
+    },
+    {
+      "word": "you",
+      "start": 227.22000122070312,
+      "end": 227.47999572753906
+    },
+    {
+      "word": "only",
+      "start": 227.47999572753906,
+      "end": 228.10000610351562
+    },
+    {
+      "word": "hold",
+      "start": 228.10000610351562,
+      "end": 228.60000610351562
+    },
+    {
+      "word": "me",
+      "start": 228.60000610351562,
+      "end": 229.10000610351562
+    },
+    {
+      "word": "tight",
+      "start": 229.10000610351562,
+      "end": 229.83999633789062
+    },
+    {
+      "word": "We'll",
+      "start": 230.05999755859375,
+      "end": 230.74000549316406
+    },
+    {
+      "word": "be",
+      "start": 230.74000549316406,
+      "end": 231.0800018310547
+    },
+    {
+      "word": "holding",
+      "start": 231.0800018310547,
+      "end": 231.67999267578125
+    },
+    {
+      "word": "on",
+      "start": 231.67999267578125,
+      "end": 232.55999755859375
+    },
+    {
+      "word": "forever",
+      "start": 232.55999755859375,
+      "end": 233.24000549316406
+    },
+    {
+      "word": "And",
+      "start": 233.47999572753906,
+      "end": 234.16000366210938
+    },
+    {
+      "word": "we'll",
+      "start": 234.16000366210938,
+      "end": 234.44000244140625
+    },
+    {
+      "word": "only",
+      "start": 234.44000244140625,
+      "end": 235.02000427246094
+    },
+    {
+      "word": "be",
+      "start": 235.02000427246094,
+      "end": 235.3000030517578
+    },
+    {
+      "word": "making",
+      "start": 235.3000030517578,
+      "end": 235.89999389648438
+    },
+    {
+      "word": "it",
+      "start": 235.89999389648438,
+      "end": 236.32000732421875
+    },
+    {
+      "word": "right",
+      "start": 236.32000732421875,
+      "end": 236.9600067138672
+    },
+    {
+      "word": "Because",
+      "start": 237.17999267578125,
+      "end": 237.86000061035156
+    },
+    {
+      "word": "we'll",
+      "start": 237.86000061035156,
+      "end": 238.0800018310547
+    },
+    {
+      "word": "never",
+      "start": 238.0800018310547,
+      "end": 238.4199981689453
+    },
+    {
+      "word": "be",
+      "start": 238.4199981689453,
+      "end": 239.25999450683594
+    },
+    {
+      "word": "wrong",
+      "start": 239.25999450683594,
+      "end": 239.6199951171875
+    },
+    {
+      "word": "Together",
+      "start": 239.6199951171875,
+      "end": 240.24000549316406
+    },
+    {
+      "word": "we",
+      "start": 240.24000549316406,
+      "end": 240.52000427246094
+    },
+    {
+      "word": "can",
+      "start": 240.52000427246094,
+      "end": 240.72000122070312
+    },
+    {
+      "word": "take",
+      "start": 240.72000122070312,
+      "end": 241.0399932861328
+    },
+    {
+      "word": "it",
+      "start": 241.0399932861328,
+      "end": 241.25999450683594
+    },
+    {
+      "word": "to",
+      "start": 241.25999450683594,
+      "end": 241.36000061035156
+    },
+    {
+      "word": "the",
+      "start": 241.36000061035156,
+      "end": 241.86000061035156
+    },
+    {
+      "word": "end",
+      "start": 241.86000061035156,
+      "end": 241.89999389648438
+    },
+    {
+      "word": "of",
+      "start": 241.89999389648438,
+      "end": 242.16000366210938
+    },
+    {
+      "word": "the",
+      "start": 242.16000366210938,
+      "end": 242.27999877929688
+    },
+    {
+      "word": "line",
+      "start": 242.27999877929688,
+      "end": 242.77999877929688
+    },
+    {
+      "word": "Your",
+      "start": 242.86000061035156,
+      "end": 243.5399932861328
+    },
+    {
+      "word": "love",
+      "start": 243.5399932861328,
+      "end": 243.6199951171875
+    },
+    {
+      "word": "is",
+      "start": 243.6199951171875,
+      "end": 243.82000732421875
+    },
+    {
+      "word": "like",
+      "start": 243.82000732421875,
+      "end": 244.0399932861328
+    },
+    {
+      "word": "a",
+      "start": 244.0399932861328,
+      "end": 244.52000427246094
+    },
+    {
+      "word": "shadow",
+      "start": 244.52000427246094,
+      "end": 244.6199951171875
+    },
+    {
+      "word": "on",
+      "start": 244.6199951171875,
+      "end": 245.02000427246094
+    },
+    {
+      "word": "me",
+      "start": 245.02000427246094,
+      "end": 245.3000030517578
+    },
+    {
+      "word": "all",
+      "start": 245.3000030517578,
+      "end": 245.4199981689453
+    },
+    {
+      "word": "of",
+      "start": 245.4199981689453,
+      "end": 245.74000549316406
+    },
+    {
+      "word": "the",
+      "start": 245.74000549316406,
+      "end": 245.74000549316406
+    },
+    {
+      "word": "time",
+      "start": 245.74000549316406,
+      "end": 246.63999938964844
+    },
+    {
+      "word": "I",
+      "start": 247.8800048828125,
+      "end": 248.55999755859375
+    },
+    {
+      "word": "don't",
+      "start": 248.55999755859375,
+      "end": 248.8000030517578
+    },
+    {
+      "word": "know",
+      "start": 248.8000030517578,
+      "end": 249.02000427246094
+    },
+    {
+      "word": "what",
+      "start": 249.02000427246094,
+      "end": 249.24000549316406
+    },
+    {
+      "word": "to",
+      "start": 249.24000549316406,
+      "end": 249.67999267578125
+    },
+    {
+      "word": "do",
+      "start": 249.67999267578125,
+      "end": 249.77999877929688
+    },
+    {
+      "word": "and",
+      "start": 249.77999877929688,
+      "end": 250.0800018310547
+    },
+    {
+      "word": "I'm",
+      "start": 250.0800018310547,
+      "end": 250.25999450683594
+    },
+    {
+      "word": "always",
+      "start": 250.25999450683594,
+      "end": 250.77999877929688
+    },
+    {
+      "word": "in",
+      "start": 250.77999877929688,
+      "end": 251.05999755859375
+    },
+    {
+      "word": "the",
+      "start": 251.05999755859375,
+      "end": 251.5399932861328
+    },
+    {
+      "word": "dark",
+      "start": 251.5399932861328,
+      "end": 251.66000366210938
+    },
+    {
+      "word": "We're",
+      "start": 251.66000366210938,
+      "end": 252.5399932861328
+    },
+    {
+      "word": "living",
+      "start": 252.5399932861328,
+      "end": 252.5399932861328
+    },
+    {
+      "word": "in",
+      "start": 252.5399932861328,
+      "end": 252.97999572753906
+    },
+    {
+      "word": "a",
+      "start": 252.97999572753906,
+      "end": 253.1999969482422
+    },
+    {
+      "word": "party",
+      "start": 253.1999969482422,
+      "end": 253.39999389648438
+    },
+    {
+      "word": "can't",
+      "start": 253.4199981689453,
+      "end": 253.66000366210938
+    },
+    {
+      "word": "get",
+      "start": 253.66000366210938,
+      "end": 254.0399932861328
+    },
+    {
+      "word": "lost",
+      "start": 254.0399932861328,
+      "end": 254.44000244140625
+    },
+    {
+      "word": "and",
+      "start": 254.44000244140625,
+      "end": 255.6199951171875
+    },
+    {
+      "word": "fall",
+      "start": 255.6199951171875,
+      "end": 255.6199951171875
+    },
+    {
+      "word": "I",
+      "start": 257,
+      "end": 257.79998779296875
+    },
+    {
+      "word": "really",
+      "start": 257.79998779296875,
+      "end": 258.20001220703125
+    },
+    {
+      "word": "need",
+      "start": 258.20001220703125,
+      "end": 258.44000244140625
+    },
+    {
+      "word": "you",
+      "start": 258.44000244140625,
+      "end": 258.6600036621094
+    },
+    {
+      "word": "tonight",
+      "start": 258.6600036621094,
+      "end": 259.7799987792969
+    },
+    {
+      "word": "Forever's",
+      "start": 260.7200012207031,
+      "end": 261.5199890136719
+    },
+    {
+      "word": "gonna",
+      "start": 261.5199890136719,
+      "end": 261.67999267578125
+    },
+    {
+      "word": "start",
+      "start": 261.67999267578125,
+      "end": 262.1199951171875
+    },
+    {
+      "word": "tonight",
+      "start": 262.1199951171875,
+      "end": 262.6600036621094
+    },
+    {
+      "word": "Forever's",
+      "start": 264.05999755859375,
+      "end": 264.8599853515625
+    },
+    {
+      "word": "gonna",
+      "start": 264.8599853515625,
+      "end": 265.20001220703125
+    },
+    {
+      "word": "start",
+      "start": 265.20001220703125,
+      "end": 265.739990234375
+    },
+    {
+      "word": "tonight",
+      "start": 265.739990234375,
+      "end": 266.05999755859375
+    },
+    {
+      "word": "Once",
+      "start": 266.05999755859375,
+      "end": 266.5799865722656
+    },
+    {
+      "word": "upon",
+      "start": 266.5799865722656,
+      "end": 266.8399963378906
+    },
+    {
+      "word": "a",
+      "start": 266.8399963378906,
+      "end": 267.05999755859375
+    },
+    {
+      "word": "time",
+      "start": 267.05999755859375,
+      "end": 267.44000244140625
+    },
+    {
+      "word": "I",
+      "start": 267.44000244140625,
+      "end": 267.760009765625
+    },
+    {
+      "word": "was",
+      "start": 267.760009765625,
+      "end": 267.9599914550781
+    },
+    {
+      "word": "falling",
+      "start": 267.9599914550781,
+      "end": 268.5
+    },
+    {
+      "word": "in",
+      "start": 268.5,
+      "end": 269.1000061035156
+    },
+    {
+      "word": "love",
+      "start": 269.1000061035156,
+      "end": 269.3800048828125
+    },
+    {
+      "word": "Now",
+      "start": 269.3800048828125,
+      "end": 270.1400146484375
+    },
+    {
+      "word": "I'm",
+      "start": 270.1400146484375,
+      "end": 270.3800048828125
+    },
+    {
+      "word": "only",
+      "start": 270.3800048828125,
+      "end": 270.8599853515625
+    },
+    {
+      "word": "falling",
+      "start": 270.8599853515625,
+      "end": 271.32000732421875
+    },
+    {
+      "word": "apart",
+      "start": 271.32000732421875,
+      "end": 271.7200012207031
+    },
+    {
+      "word": "Nothing",
+      "start": 274.9800109863281,
+      "end": 275.7799987792969
+    },
+    {
+      "word": "I",
+      "start": 275.7799987792969,
+      "end": 276.1000061035156
+    },
+    {
+      "word": "can",
+      "start": 276.1000061035156,
+      "end": 276.29998779296875
+    },
+    {
+      "word": "do",
+      "start": 276.29998779296875,
+      "end": 276.79998779296875
+    },
+    {
+      "word": "a",
+      "start": 277.4599914550781,
+      "end": 277.4599914550781
+    },
+    {
+      "word": "total",
+      "start": 277.4599914550781,
+      "end": 277.760009765625
+    },
+    {
+      "word": "eclipse",
+      "start": 277.760009765625,
+      "end": 278.4200134277344
+    },
+    {
+      "word": "of",
+      "start": 278.4200134277344,
+      "end": 278.739990234375
+    },
+    {
+      "word": "the",
+      "start": 278.739990234375,
+      "end": 279
+    },
+    {
+      "word": "heart",
+      "start": 279,
+      "end": 279.67999267578125
+    },
+    {
+      "word": "Once",
+      "start": 285.9200134277344,
+      "end": 286.7200012207031
+    },
+    {
+      "word": "upon",
+      "start": 286.7200012207031,
+      "end": 287.1400146484375
+    },
+    {
+      "word": "a",
+      "start": 287.1400146484375,
+      "end": 287.4599914550781
+    },
+    {
+      "word": "time",
+      "start": 287.4599914550781,
+      "end": 287.8399963378906
+    },
+    {
+      "word": "there",
+      "start": 287.8399963378906,
+      "end": 288.1199951171875
+    },
+    {
+      "word": "was",
+      "start": 288.1199951171875,
+      "end": 288.32000732421875
+    },
+    {
+      "word": "light",
+      "start": 288.32000732421875,
+      "end": 288.7200012207031
+    },
+    {
+      "word": "in",
+      "start": 288.7200012207031,
+      "end": 288.9599914550781
+    },
+    {
+      "word": "my",
+      "start": 288.9599914550781,
+      "end": 289.17999267578125
+    },
+    {
+      "word": "life",
+      "start": 289.17999267578125,
+      "end": 289.739990234375
+    },
+    {
+      "word": "Now",
+      "start": 289.739990234375,
+      "end": 290.4599914550781
+    },
+    {
+      "word": "there's",
+      "start": 290.4599914550781,
+      "end": 290.739990234375
+    },
+    {
+      "word": "only",
+      "start": 290.739990234375,
+      "end": 291.1400146484375
+    },
+    {
+      "word": "love",
+      "start": 291.1400146484375,
+      "end": 291.5
+    },
+    {
+      "word": "in",
+      "start": 291.5,
+      "end": 293.1000061035156
+    },
+    {
+      "word": "the",
+      "start": 293.1000061035156,
+      "end": 293.1000061035156
+    },
+    {
+      "word": "dark",
+      "start": 293.1000061035156,
+      "end": 293.1000061035156
+    },
+    {
+      "word": "Nothing",
+      "start": 293.5799865722656,
+      "end": 294.3800048828125
+    },
+    {
+      "word": "I",
+      "start": 294.3800048828125,
+      "end": 294.7200012207031
+    },
+    {
+      "word": "can",
+      "start": 294.7200012207031,
+      "end": 294.9599914550781
+    },
+    {
+      "word": "say",
+      "start": 294.9599914550781,
+      "end": 295.6199951171875
+    },
+    {
+      "word": "a",
+      "start": 296.1600036621094,
+      "end": 296.17999267578125
+    },
+    {
+      "word": "total",
+      "start": 296.17999267578125,
+      "end": 296.44000244140625
+    },
+    {
+      "word": "eclipse",
+      "start": 296.44000244140625,
+      "end": 297.1199951171875
+    },
+    {
+      "word": "of",
+      "start": 297.1199951171875,
+      "end": 297.4800109863281
+    },
+    {
+      "word": "the",
+      "start": 297.4800109863281,
+      "end": 299.8399963378906
+    },
+    {
+      "word": "heart",
+      "start": 299.8399963378906,
+      "end": 300.3800048828125
+    },
+    {
+      "word": "A",
+      "start": 302.8999938964844,
+      "end": 303.70001220703125
+    },
+    {
+      "word": "total",
+      "start": 303.70001220703125,
+      "end": 303.8599853515625
+    },
+    {
+      "word": "eclipse",
+      "start": 303.8599853515625,
+      "end": 304.20001220703125
+    },
+    {
+      "word": "of",
+      "start": 304.20001220703125,
+      "end": 304.8599853515625
+    },
+    {
+      "word": "the",
+      "start": 304.8599853515625,
+      "end": 306.239990234375
+    },
+    {
+      "word": "heart",
+      "start": 306.239990234375,
+      "end": 306.239990234375
+    },
+    {
+      "word": "A",
+      "start": 306.239990234375,
+      "end": 306.760009765625
+    },
+    {
+      "word": "total",
+      "start": 306.760009765625,
+      "end": 310.8399963378906
+    },
+    {
+      "word": "eclipse",
+      "start": 310.8399963378906,
+      "end": 310.8399963378906
+    },
+    {
+      "word": "of",
+      "start": 310.8399963378906,
+      "end": 310.8399963378906
+    },
+    {
+      "word": "the",
+      "start": 310.8399963378906,
+      "end": 310.8599853515625
+    },
+    {
+      "word": "heart",
+      "start": 310.8599853515625,
+      "end": 310.9200134277344
+    },
+    {
+      "word": "Turn",
+      "start": 310.9200134277344,
+      "end": 311.79998779296875
+    },
+    {
+      "word": "around",
+      "start": 311.79998779296875,
+      "end": 312.3800048828125
+    },
+    {
+      "word": "bright",
+      "start": 312.3800048828125,
+      "end": 312.9800109863281
+    },
+    {
+      "word": "eyes",
+      "start": 312.9800109863281,
+      "end": 313.760009765625
+    },
+    {
+      "word": "Turn",
+      "start": 318.239990234375,
+      "end": 319.05999755859375
+    },
+    {
+      "word": "around",
+      "start": 319.05999755859375,
+      "end": 319.5199890136719
+    },
+    {
+      "word": "bright",
+      "start": 319.5199890136719,
+      "end": 320.1600036621094
+    },
+    {
+      "word": "eyes",
+      "start": 320.1600036621094,
+      "end": 321.4599914550781
+    },
+    {
+      "word": "Turn",
+      "start": 322.17999267578125,
+      "end": 322.8800048828125
+    },
+    {
+      "word": "around",
+      "start": 322.8800048828125,
+      "end": 324.1600036621094
+    }
+  ],
+  "usage": {
+    "type": "duration",
+    "seconds": 334
+  }
+}

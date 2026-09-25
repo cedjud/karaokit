@@ -1,0 +1,2533 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 379.0299987792969,
+  "text": "하하하하하하하하하하하하하하 Purple Pavement Purple pavement Crooked fingers knocking on windows Without souls, bodies are swinging From rooftops and poles Howling through hollows Restless nights and one-night cheap hotels All my only drifting to always come back Now I search for something Or whatever, I don't really care Driving with their lights off They can be anywhere Rolling down their windows Open car doors, open mouths Golden teeth and golden car You cover your eyes, you cover your mouth, you cover your ears Still you follow my trail I'll do it all, I'll do whatever you say God has left me anyway Love, I lay in the pavement Stars with stains in the heaven afterglow Beneath the ashes are echoes Buried alive They are howling through hollows Once we shared their temples Now our heads are hung up on walls We are ruins within ruins On every corner, gladiator Is begging for another century When no one heard your tongue To know nothing and to know it all To be both the animal and the god You cover your eyes, you cover your mouth, you cover your ears Still you follow our trail We'll do it all, we'll do whatever you say God has left us anyway You cover your eyes, you cover your mouth, you cover your ears Still you follow our trail We'll do it all, we'll do whatever you say God has left us anyway God has left us anyway God has left us anyway God has left us anyway There are echoes in the garden Is anybody listening? There are echoes lost in the garden Is anybody listening? They whisper, the ones who are only living Are the ones who are only dying",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 18.920000076293945,
+      "end": 20.31999969482422,
+      "text": "하하하하하하하하하하하하하하",
+      "tokens": [
+        50414,
+        39385,
+        39385,
+        39385,
+        39385,
+        39385,
+        39385,
+        39385,
+        50514
+      ],
+      "temperature": 1,
+      "avg_logprob": -2.394238233566284,
+      "compression_ratio": 3,
+      "no_speech_prob": 0.25149834156036377
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 52.380001068115234,
+      "end": 55.18000030517578,
+      "text": " Purple Pavement",
+      "tokens": [
+        50364,
+        28483,
+        430,
+        946,
+        518,
+        50864
+      ],
+      "temperature": 0.20000000298023224,
+      "avg_logprob": -0.8982548713684082,
+      "compression_ratio": 1.0634920597076416,
+      "no_speech_prob": 0.32445842027664185
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 55.18000030517578,
+      "end": 55.20000076293945,
+      "text": " Purple pavement",
+      "tokens": [
+        51414,
+        28483,
+        38305,
+        51614
+      ],
+      "temperature": 0.20000000298023224,
+      "avg_logprob": -0.8982548713684082,
+      "compression_ratio": 1.0634920597076416,
+      "no_speech_prob": 0.32445842027664185
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 55.20000076293945,
+      "end": 59.02000045776367,
+      "text": " Crooked fingers knocking on windows",
+      "tokens": [
+        51614,
+        18965,
+        9511,
+        7350,
+        24085,
+        322,
+        9309,
+        51814
+      ],
+      "temperature": 0.20000000298023224,
+      "avg_logprob": -0.8982548713684082,
+      "compression_ratio": 1.0634920597076416,
+      "no_speech_prob": 0.32445842027664185
+    },
+    {
+      "id": 4,
+      "seek": 5902,
+      "start": 59.02000045776367,
+      "end": 64.0199966430664,
+      "text": " Without souls, bodies are swinging",
+      "tokens": [
+        50364,
+        9129,
+        16588,
+        11,
+        7510,
+        366,
+        29500,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2788793742656708,
+      "compression_ratio": 1.213592290878296,
+      "no_speech_prob": 0.04922288656234741
+    },
+    {
+      "id": 5,
+      "seek": 5902,
+      "start": 65.13999938964844,
+      "end": 69.58000183105469,
+      "text": " From rooftops and poles",
+      "tokens": [
+        50614,
+        3358,
+        34460,
+        3370,
+        293,
+        24760,
+        50864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2788793742656708,
+      "compression_ratio": 1.213592290878296,
+      "no_speech_prob": 0.04922288656234741
+    },
+    {
+      "id": 6,
+      "seek": 5902,
+      "start": 69.9000015258789,
+      "end": 74.0199966430664,
+      "text": " Howling through hollows",
+      "tokens": [
+        50864,
+        1012,
+        1688,
+        807,
+        23972,
+        82,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2788793742656708,
+      "compression_ratio": 1.213592290878296,
+      "no_speech_prob": 0.04922288656234741
+    },
+    {
+      "id": 7,
+      "seek": 5902,
+      "start": 74.81999969482422,
+      "end": 79.31999969482422,
+      "text": " Restless nights and one-night cheap hotels",
+      "tokens": [
+        51114,
+        13094,
+        1832,
+        13249,
+        293,
+        472,
+        12,
+        6402,
+        7084,
+        22718,
+        51364
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2788793742656708,
+      "compression_ratio": 1.213592290878296,
+      "no_speech_prob": 0.04922288656234741
+    },
+    {
+      "id": 8,
+      "seek": 7932,
+      "start": 79.31999969482422,
+      "end": 90.19999694824219,
+      "text": " All my only drifting to always come back",
+      "tokens": [
+        50364,
+        1057,
+        452,
+        787,
+        37973,
+        281,
+        1009,
+        808,
+        646,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28167352080345154,
+      "compression_ratio": 1.08695650100708,
+      "no_speech_prob": 0.1330043226480484
+    },
+    {
+      "id": 9,
+      "seek": 7932,
+      "start": 96.31999969482422,
+      "end": 100.80000305175781,
+      "text": " Now I search for something",
+      "tokens": [
+        51214,
+        823,
+        286,
+        3164,
+        337,
+        746,
+        51414
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28167352080345154,
+      "compression_ratio": 1.08695650100708,
+      "no_speech_prob": 0.1330043226480484
+    },
+    {
+      "id": 10,
+      "seek": 7932,
+      "start": 100.80000305175781,
+      "end": 106.0999984741211,
+      "text": " Or whatever, I don't really care",
+      "tokens": [
+        51414,
+        1610,
+        2035,
+        11,
+        286,
+        500,
+        380,
+        534,
+        1127,
+        51714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28167352080345154,
+      "compression_ratio": 1.08695650100708,
+      "no_speech_prob": 0.1330043226480484
+    },
+    {
+      "id": 11,
+      "seek": 10610,
+      "start": 106.0999984741211,
+      "end": 110.23999786376953,
+      "text": " Driving with their lights off",
+      "tokens": [
+        50364,
+        44028,
+        365,
+        641,
+        5811,
+        766,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.22243115305900574,
+      "compression_ratio": 1.2201834917068481,
+      "no_speech_prob": 0.023643404245376587
+    },
+    {
+      "id": 12,
+      "seek": 10610,
+      "start": 110.23999786376953,
+      "end": 114.4000015258789,
+      "text": " They can be anywhere",
+      "tokens": [
+        50564,
+        814,
+        393,
+        312,
+        4992,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.22243115305900574,
+      "compression_ratio": 1.2201834917068481,
+      "no_speech_prob": 0.023643404245376587
+    },
+    {
+      "id": 13,
+      "seek": 10610,
+      "start": 114.4000015258789,
+      "end": 119.04000091552734,
+      "text": " Rolling down their windows",
+      "tokens": [
+        50764,
+        36457,
+        760,
+        641,
+        9309,
+        51014
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.22243115305900574,
+      "compression_ratio": 1.2201834917068481,
+      "no_speech_prob": 0.023643404245376587
+    },
+    {
+      "id": 14,
+      "seek": 10610,
+      "start": 119.04000091552734,
+      "end": 124.23999786376953,
+      "text": " Open car doors, open mouths",
+      "tokens": [
+        51014,
+        7238,
+        1032,
+        8077,
+        11,
+        1269,
+        33171,
+        51264
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.22243115305900574,
+      "compression_ratio": 1.2201834917068481,
+      "no_speech_prob": 0.023643404245376587
+    },
+    {
+      "id": 15,
+      "seek": 10610,
+      "start": 124.69999694824219,
+      "end": 132.17999267578125,
+      "text": " Golden teeth and golden car",
+      "tokens": [
+        51264,
+        13410,
+        7798,
+        293,
+        9729,
+        1032,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.22243115305900574,
+      "compression_ratio": 1.2201834917068481,
+      "no_speech_prob": 0.023643404245376587
+    },
+    {
+      "id": 16,
+      "seek": 13218,
+      "start": 132.17999267578125,
+      "end": 136.67999267578125,
+      "text": " You cover your eyes, you cover your mouth, you cover your ears",
+      "tokens": [
+        50364,
+        509,
+        2060,
+        428,
+        2575,
+        11,
+        291,
+        2060,
+        428,
+        4525,
+        11,
+        291,
+        2060,
+        428,
+        8798,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18861839175224304,
+      "compression_ratio": 1.4339622259140015,
+      "no_speech_prob": 0.05368169769644737
+    },
+    {
+      "id": 17,
+      "seek": 13218,
+      "start": 136.67999267578125,
+      "end": 140.89999389648438,
+      "text": " Still you follow my trail",
+      "tokens": [
+        50564,
+        8291,
+        291,
+        1524,
+        452,
+        9924,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18861839175224304,
+      "compression_ratio": 1.4339622259140015,
+      "no_speech_prob": 0.05368169769644737
+    },
+    {
+      "id": 18,
+      "seek": 13218,
+      "start": 140.89999389648438,
+      "end": 145.0399932861328,
+      "text": " I'll do it all, I'll do whatever you say",
+      "tokens": [
+        50814,
+        286,
+        603,
+        360,
+        309,
+        439,
+        11,
+        286,
+        603,
+        360,
+        2035,
+        291,
+        584,
+        51014
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18861839175224304,
+      "compression_ratio": 1.4339622259140015,
+      "no_speech_prob": 0.05368169769644737
+    },
+    {
+      "id": 19,
+      "seek": 13218,
+      "start": 145.89999389648438,
+      "end": 151.0399932861328,
+      "text": " God has left me anyway",
+      "tokens": [
+        51014,
+        1265,
+        575,
+        1411,
+        385,
+        4033,
+        51414
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18861839175224304,
+      "compression_ratio": 1.4339622259140015,
+      "no_speech_prob": 0.05368169769644737
+    },
+    {
+      "id": 20,
+      "seek": 16218,
+      "start": 173.02000427246094,
+      "end": 178,
+      "text": " Love, I lay in the pavement",
+      "tokens": [
+        50364,
+        5956,
+        11,
+        286,
+        2360,
+        294,
+        264,
+        38305,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3704741299152374,
+      "compression_ratio": 1.1529412269592285,
+      "no_speech_prob": 0.009265478700399399
+    },
+    {
+      "id": 21,
+      "seek": 16218,
+      "start": 178,
+      "end": 183.44000244140625,
+      "text": " Stars with stains in the heaven afterglow",
+      "tokens": [
+        51164,
+        20957,
+        365,
+        40733,
+        294,
+        264,
+        7162,
+        934,
+        7191,
+        305,
+        51414
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3704741299152374,
+      "compression_ratio": 1.1529412269592285,
+      "no_speech_prob": 0.009265478700399399
+    },
+    {
+      "id": 22,
+      "seek": 16218,
+      "start": 183.44000244140625,
+      "end": 187.17999267578125,
+      "text": " Beneath the ashes are echoes",
+      "tokens": [
+        51414,
+        27702,
+        998,
+        264,
+        32942,
+        366,
+        47051,
+        51614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3704741299152374,
+      "compression_ratio": 1.1529412269592285,
+      "no_speech_prob": 0.009265478700399399
+    },
+    {
+      "id": 23,
+      "seek": 18718,
+      "start": 187.17999267578125,
+      "end": 191.47999572753906,
+      "text": " Buried alive",
+      "tokens": [
+        50364,
+        7031,
+        1091,
+        5465,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20179446041584015,
+      "compression_ratio": 1.2735849618911743,
+      "no_speech_prob": 0.3018703758716583
+    },
+    {
+      "id": 24,
+      "seek": 18718,
+      "start": 191.47999572753906,
+      "end": 196.17999267578125,
+      "text": " They are howling through hollows",
+      "tokens": [
+        50564,
+        814,
+        366,
+        577,
+        1688,
+        807,
+        23972,
+        82,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20179446041584015,
+      "compression_ratio": 1.2735849618911743,
+      "no_speech_prob": 0.3018703758716583
+    },
+    {
+      "id": 25,
+      "seek": 18718,
+      "start": 196.83999633789062,
+      "end": 200.83999633789062,
+      "text": " Once we shared their temples",
+      "tokens": [
+        50814,
+        3443,
+        321,
+        5507,
+        641,
+        27431,
+        51064
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20179446041584015,
+      "compression_ratio": 1.2735849618911743,
+      "no_speech_prob": 0.3018703758716583
+    },
+    {
+      "id": 26,
+      "seek": 18718,
+      "start": 201.74000549316406,
+      "end": 209.83999633789062,
+      "text": " Now our heads are hung up on walls",
+      "tokens": [
+        51064,
+        823,
+        527,
+        8050,
+        366,
+        5753,
+        493,
+        322,
+        7920,
+        51464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20179446041584015,
+      "compression_ratio": 1.2735849618911743,
+      "no_speech_prob": 0.3018703758716583
+    },
+    {
+      "id": 27,
+      "seek": 18718,
+      "start": 209.83999633789062,
+      "end": 214.6199951171875,
+      "text": " We are ruins within ruins",
+      "tokens": [
+        51464,
+        492,
+        366,
+        24747,
+        1951,
+        24747,
+        51714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20179446041584015,
+      "compression_ratio": 1.2735849618911743,
+      "no_speech_prob": 0.3018703758716583
+    },
+    {
+      "id": 28,
+      "seek": 21462,
+      "start": 214.6199951171875,
+      "end": 220,
+      "text": " On every corner, gladiator",
+      "tokens": [
+        50364,
+        1282,
+        633,
+        4538,
+        11,
+        5404,
+        72,
+        1639,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2509593367576599,
+      "compression_ratio": 1.207920789718628,
+      "no_speech_prob": 0.021124720573425293
+    },
+    {
+      "id": 29,
+      "seek": 21462,
+      "start": 220,
+      "end": 226.6199951171875,
+      "text": " Is begging for another century",
+      "tokens": [
+        50614,
+        1119,
+        26600,
+        337,
+        1071,
+        4901,
+        51014
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2509593367576599,
+      "compression_ratio": 1.207920789718628,
+      "no_speech_prob": 0.021124720573425293
+    },
+    {
+      "id": 30,
+      "seek": 21462,
+      "start": 227.52000427246094,
+      "end": 232.83999633789062,
+      "text": " When no one heard your tongue",
+      "tokens": [
+        51014,
+        1133,
+        572,
+        472,
+        2198,
+        428,
+        10601,
+        51264
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2509593367576599,
+      "compression_ratio": 1.207920789718628,
+      "no_speech_prob": 0.021124720573425293
+    },
+    {
+      "id": 31,
+      "seek": 21462,
+      "start": 232.83999633789062,
+      "end": 238.94000244140625,
+      "text": " To know nothing and to know it all",
+      "tokens": [
+        51264,
+        1407,
+        458,
+        1825,
+        293,
+        281,
+        458,
+        309,
+        439,
+        51564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2509593367576599,
+      "compression_ratio": 1.207920789718628,
+      "no_speech_prob": 0.021124720573425293
+    },
+    {
+      "id": 32,
+      "seek": 23894,
+      "start": 238.94000244140625,
+      "end": 246.52000427246094,
+      "text": " To be both the animal and the god",
+      "tokens": [
+        50364,
+        1407,
+        312,
+        1293,
+        264,
+        5496,
+        293,
+        264,
+        3044,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1903211772441864,
+      "compression_ratio": 1.9384615421295166,
+      "no_speech_prob": 0.06782472133636475
+    },
+    {
+      "id": 33,
+      "seek": 23894,
+      "start": 246.55999755859375,
+      "end": 250.82000732421875,
+      "text": " You cover your eyes, you cover your mouth, you cover your ears",
+      "tokens": [
+        50764,
+        509,
+        2060,
+        428,
+        2575,
+        11,
+        291,
+        2060,
+        428,
+        4525,
+        11,
+        291,
+        2060,
+        428,
+        8798,
+        50964
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1903211772441864,
+      "compression_ratio": 1.9384615421295166,
+      "no_speech_prob": 0.06782472133636475
+    },
+    {
+      "id": 34,
+      "seek": 23894,
+      "start": 251.1999969482422,
+      "end": 255.4199981689453,
+      "text": " Still you follow our trail",
+      "tokens": [
+        50964,
+        8291,
+        291,
+        1524,
+        527,
+        9924,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1903211772441864,
+      "compression_ratio": 1.9384615421295166,
+      "no_speech_prob": 0.06782472133636475
+    },
+    {
+      "id": 35,
+      "seek": 23894,
+      "start": 255.4199981689453,
+      "end": 259.260009765625,
+      "text": " We'll do it all, we'll do whatever you say",
+      "tokens": [
+        51164,
+        492,
+        603,
+        360,
+        309,
+        439,
+        11,
+        321,
+        603,
+        360,
+        2035,
+        291,
+        584,
+        51414
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1903211772441864,
+      "compression_ratio": 1.9384615421295166,
+      "no_speech_prob": 0.06782472133636475
+    },
+    {
+      "id": 36,
+      "seek": 23894,
+      "start": 259.94000244140625,
+      "end": 263.7799987792969,
+      "text": " God has left us anyway",
+      "tokens": [
+        51414,
+        1265,
+        575,
+        1411,
+        505,
+        4033,
+        51614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1903211772441864,
+      "compression_ratio": 1.9384615421295166,
+      "no_speech_prob": 0.06782472133636475
+    },
+    {
+      "id": 37,
+      "seek": 23894,
+      "start": 263.7799987792969,
+      "end": 268.20001220703125,
+      "text": " You cover your eyes, you cover your mouth, you cover your ears",
+      "tokens": [
+        51614,
+        509,
+        2060,
+        428,
+        2575,
+        11,
+        291,
+        2060,
+        428,
+        4525,
+        11,
+        291,
+        2060,
+        428,
+        8798,
+        51814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1903211772441864,
+      "compression_ratio": 1.9384615421295166,
+      "no_speech_prob": 0.06782472133636475
+    },
+    {
+      "id": 38,
+      "seek": 26820,
+      "start": 268.20001220703125,
+      "end": 272.5799865722656,
+      "text": " Still you follow our trail",
+      "tokens": [
+        50364,
+        8291,
+        291,
+        1524,
+        527,
+        9924,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15854936838150024,
+      "compression_ratio": 1.108433723449707,
+      "no_speech_prob": 0.04116436839103699
+    },
+    {
+      "id": 39,
+      "seek": 26820,
+      "start": 272.5799865722656,
+      "end": 276.20001220703125,
+      "text": " We'll do it all, we'll do whatever you say",
+      "tokens": [
+        50564,
+        492,
+        603,
+        360,
+        309,
+        439,
+        11,
+        321,
+        603,
+        360,
+        2035,
+        291,
+        584,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15854936838150024,
+      "compression_ratio": 1.108433723449707,
+      "no_speech_prob": 0.04116436839103699
+    },
+    {
+      "id": 40,
+      "seek": 26820,
+      "start": 277,
+      "end": 283.9800109863281,
+      "text": " God has left us anyway",
+      "tokens": [
+        50764,
+        1265,
+        575,
+        1411,
+        505,
+        4033,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15854936838150024,
+      "compression_ratio": 1.108433723449707,
+      "no_speech_prob": 0.04116436839103699
+    },
+    {
+      "id": 41,
+      "seek": 29820,
+      "start": 317.739990234375,
+      "end": 317.8800048828125,
+      "text": " God has left us anyway",
+      "tokens": [
+        50414,
+        220,
+        18358,
+        575,
+        1411,
+        505,
+        4033,
+        50814
+      ],
+      "temperature": 0.4000000059604645,
+      "avg_logprob": -0.7087898254394531,
+      "compression_ratio": 2,
+      "no_speech_prob": 0.9747965931892395
+    },
+    {
+      "id": 42,
+      "seek": 29820,
+      "start": 317.8800048828125,
+      "end": 317.9800109863281,
+      "text": " God has left us anyway",
+      "tokens": [
+        50814,
+        1265,
+        575,
+        1411,
+        505,
+        4033,
+        51164
+      ],
+      "temperature": 0.4000000059604645,
+      "avg_logprob": -0.7087898254394531,
+      "compression_ratio": 2,
+      "no_speech_prob": 0.9747965931892395
+    },
+    {
+      "id": 43,
+      "seek": 29820,
+      "start": 327.6000061035156,
+      "end": 327.739990234375,
+      "text": " God has left us anyway",
+      "tokens": [
+        51164,
+        1265,
+        575,
+        1411,
+        505,
+        4033,
+        51664
+      ],
+      "temperature": 0.4000000059604645,
+      "avg_logprob": -0.7087898254394531,
+      "compression_ratio": 2,
+      "no_speech_prob": 0.9747965931892395
+    },
+    {
+      "id": 44,
+      "seek": 32774,
+      "start": 332.67999267578125,
+      "end": 338.2799987792969,
+      "text": " There are echoes in the garden",
+      "tokens": [
+        50414,
+        821,
+        366,
+        47051,
+        294,
+        264,
+        7431,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20756717026233673,
+      "compression_ratio": 1.5942028760910034,
+      "no_speech_prob": 0.030473733320832253
+    },
+    {
+      "id": 45,
+      "seek": 32774,
+      "start": 338.9200134277344,
+      "end": 343.67999267578125,
+      "text": " Is anybody listening?",
+      "tokens": [
+        50914,
+        1119,
+        4472,
+        4764,
+        30,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20756717026233673,
+      "compression_ratio": 1.5942028760910034,
+      "no_speech_prob": 0.030473733320832253
+    },
+    {
+      "id": 46,
+      "seek": 32774,
+      "start": 344.44000244140625,
+      "end": 348.9599914550781,
+      "text": " There are echoes lost in the garden",
+      "tokens": [
+        51164,
+        821,
+        366,
+        47051,
+        2731,
+        294,
+        264,
+        7431,
+        51464
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20756717026233673,
+      "compression_ratio": 1.5942028760910034,
+      "no_speech_prob": 0.030473733320832253
+    },
+    {
+      "id": 47,
+      "seek": 32774,
+      "start": 350.6000061035156,
+      "end": 354.3999938964844,
+      "text": " Is anybody listening?",
+      "tokens": [
+        51464,
+        1119,
+        4472,
+        4764,
+        30,
+        51714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20756717026233673,
+      "compression_ratio": 1.5942028760910034,
+      "no_speech_prob": 0.030473733320832253
+    },
+    {
+      "id": 48,
+      "seek": 35440,
+      "start": 354.3999938964844,
+      "end": 360.7200012207031,
+      "text": " They whisper, the ones who are only living",
+      "tokens": [
+        50364,
+        814,
+        26018,
+        11,
+        264,
+        2306,
+        567,
+        366,
+        787,
+        2647,
+        50664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2602115273475647,
+      "compression_ratio": 1.3214285373687744,
+      "no_speech_prob": 0.06426254659891129
+    },
+    {
+      "id": 49,
+      "seek": 35440,
+      "start": 360.7200012207031,
+      "end": 366.4200134277344,
+      "text": " Are the ones who are only dying",
+      "tokens": [
+        50664,
+        2014,
+        264,
+        2306,
+        567,
+        366,
+        787,
+        8639,
+        51114
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2602115273475647,
+      "compression_ratio": 1.3214285373687744,
+      "no_speech_prob": 0.06426254659891129
+    }
+  ],
+  "words": [
+    {
+      "word": "하하하하하하하하하하하하하하",
+      "start": 18.920000076293945,
+      "end": 20.31999969482422
+    },
+    {
+      "word": "Purple",
+      "start": 52.380001068115234,
+      "end": 53.779998779296875
+    },
+    {
+      "word": "Pavement",
+      "start": 53.779998779296875,
+      "end": 55.18000030517578
+    },
+    {
+      "word": "Purple",
+      "start": 55.18000030517578,
+      "end": 55.20000076293945
+    },
+    {
+      "word": "pavement",
+      "start": 55.20000076293945,
+      "end": 55.20000076293945
+    },
+    {
+      "word": "Crooked",
+      "start": 55.20000076293945,
+      "end": 56.099998474121094
+    },
+    {
+      "word": "fingers",
+      "start": 56.099998474121094,
+      "end": 56.91999816894531
+    },
+    {
+      "word": "knocking",
+      "start": 56.91999816894531,
+      "end": 57.63999938964844
+    },
+    {
+      "word": "on",
+      "start": 57.63999938964844,
+      "end": 58.29999923706055
+    },
+    {
+      "word": "windows",
+      "start": 58.29999923706055,
+      "end": 59.02000045776367
+    },
+    {
+      "word": "Without",
+      "start": 59.02000045776367,
+      "end": 59.79999923706055
+    },
+    {
+      "word": "souls",
+      "start": 59.79999923706055,
+      "end": 61.060001373291016
+    },
+    {
+      "word": "bodies",
+      "start": 61.060001373291016,
+      "end": 62.599998474121094
+    },
+    {
+      "word": "are",
+      "start": 62.599998474121094,
+      "end": 63.13999938964844
+    },
+    {
+      "word": "swinging",
+      "start": 63.13999938964844,
+      "end": 64.0199966430664
+    },
+    {
+      "word": "From",
+      "start": 65.13999938964844,
+      "end": 66.54000091552734
+    },
+    {
+      "word": "rooftops",
+      "start": 66.54000091552734,
+      "end": 66.86000061035156
+    },
+    {
+      "word": "and",
+      "start": 66.86000061035156,
+      "end": 69.58000183105469
+    },
+    {
+      "word": "poles",
+      "start": 69.58000183105469,
+      "end": 69.58000183105469
+    },
+    {
+      "word": "Howling",
+      "start": 69.9000015258789,
+      "end": 71.30000305175781
+    },
+    {
+      "word": "through",
+      "start": 71.30000305175781,
+      "end": 72.36000061035156
+    },
+    {
+      "word": "hollows",
+      "start": 72.36000061035156,
+      "end": 74.0199966430664
+    },
+    {
+      "word": "Restless",
+      "start": 74.81999969482422,
+      "end": 75.31999969482422
+    },
+    {
+      "word": "nights",
+      "start": 75.31999969482422,
+      "end": 76.41999816894531
+    },
+    {
+      "word": "and",
+      "start": 76.41999816894531,
+      "end": 76.95999908447266
+    },
+    {
+      "word": "one",
+      "start": 76.95999908447266,
+      "end": 77.5
+    },
+    {
+      "word": "night",
+      "start": 77.5,
+      "end": 78.0199966430664
+    },
+    {
+      "word": "cheap",
+      "start": 78.0199966430664,
+      "end": 78.4800033569336
+    },
+    {
+      "word": "hotels",
+      "start": 78.4800033569336,
+      "end": 79.31999969482422
+    },
+    {
+      "word": "All",
+      "start": 79.31999969482422,
+      "end": 80.27999877929688
+    },
+    {
+      "word": "my",
+      "start": 80.27999877929688,
+      "end": 80.77999877929688
+    },
+    {
+      "word": "only",
+      "start": 80.77999877929688,
+      "end": 81.5999984741211
+    },
+    {
+      "word": "drifting",
+      "start": 81.5999984741211,
+      "end": 83.05999755859375
+    },
+    {
+      "word": "to",
+      "start": 83.05999755859375,
+      "end": 84
+    },
+    {
+      "word": "always",
+      "start": 84,
+      "end": 85.83999633789062
+    },
+    {
+      "word": "come",
+      "start": 85.83999633789062,
+      "end": 86.5
+    },
+    {
+      "word": "back",
+      "start": 86.5,
+      "end": 90.19999694824219
+    },
+    {
+      "word": "Now",
+      "start": 96.31999969482422,
+      "end": 97.0199966430664
+    },
+    {
+      "word": "I",
+      "start": 97.0199966430664,
+      "end": 97.5
+    },
+    {
+      "word": "search",
+      "start": 97.5,
+      "end": 98.45999908447266
+    },
+    {
+      "word": "for",
+      "start": 98.45999908447266,
+      "end": 99.04000091552734
+    },
+    {
+      "word": "something",
+      "start": 99.04000091552734,
+      "end": 100.80000305175781
+    },
+    {
+      "word": "Or",
+      "start": 100.80000305175781,
+      "end": 101.95999908447266
+    },
+    {
+      "word": "whatever",
+      "start": 101.95999908447266,
+      "end": 103.12000274658203
+    },
+    {
+      "word": "I",
+      "start": 103.12000274658203,
+      "end": 104.18000030517578
+    },
+    {
+      "word": "don't",
+      "start": 104.18000030517578,
+      "end": 104.72000122070312
+    },
+    {
+      "word": "really",
+      "start": 104.72000122070312,
+      "end": 105.31999969482422
+    },
+    {
+      "word": "care",
+      "start": 105.31999969482422,
+      "end": 106.0999984741211
+    },
+    {
+      "word": "Driving",
+      "start": 106.0999984741211,
+      "end": 107.33999633789062
+    },
+    {
+      "word": "with",
+      "start": 107.33999633789062,
+      "end": 107.87999725341797
+    },
+    {
+      "word": "their",
+      "start": 107.87999725341797,
+      "end": 108.27999877929688
+    },
+    {
+      "word": "lights",
+      "start": 108.27999877929688,
+      "end": 109.33999633789062
+    },
+    {
+      "word": "off",
+      "start": 109.33999633789062,
+      "end": 110.23999786376953
+    },
+    {
+      "word": "They",
+      "start": 110.23999786376953,
+      "end": 111.12000274658203
+    },
+    {
+      "word": "can",
+      "start": 111.12000274658203,
+      "end": 111.41999816894531
+    },
+    {
+      "word": "be",
+      "start": 111.41999816894531,
+      "end": 112.22000122070312
+    },
+    {
+      "word": "anywhere",
+      "start": 112.22000122070312,
+      "end": 114.4000015258789
+    },
+    {
+      "word": "Rolling",
+      "start": 114.4000015258789,
+      "end": 115.44000244140625
+    },
+    {
+      "word": "down",
+      "start": 115.44000244140625,
+      "end": 116.66000366210938
+    },
+    {
+      "word": "their",
+      "start": 116.66000366210938,
+      "end": 117.66000366210938
+    },
+    {
+      "word": "windows",
+      "start": 117.66000366210938,
+      "end": 119.04000091552734
+    },
+    {
+      "word": "Open",
+      "start": 119.04000091552734,
+      "end": 120.13999938964844
+    },
+    {
+      "word": "car",
+      "start": 120.13999938964844,
+      "end": 121.36000061035156
+    },
+    {
+      "word": "doors",
+      "start": 121.36000061035156,
+      "end": 121.69999694824219
+    },
+    {
+      "word": "open",
+      "start": 121.81999969482422,
+      "end": 122.81999969482422
+    },
+    {
+      "word": "mouths",
+      "start": 122.81999969482422,
+      "end": 124.23999786376953
+    },
+    {
+      "word": "Golden",
+      "start": 124.69999694824219,
+      "end": 126.0999984741211
+    },
+    {
+      "word": "teeth",
+      "start": 126.0999984741211,
+      "end": 127.23999786376953
+    },
+    {
+      "word": "and",
+      "start": 127.23999786376953,
+      "end": 128.75999450683594
+    },
+    {
+      "word": "golden",
+      "start": 128.75999450683594,
+      "end": 131.1999969482422
+    },
+    {
+      "word": "car",
+      "start": 131.1999969482422,
+      "end": 132.17999267578125
+    },
+    {
+      "word": "You",
+      "start": 132.17999267578125,
+      "end": 132.8000030517578
+    },
+    {
+      "word": "cover",
+      "start": 132.8000030517578,
+      "end": 133.05999755859375
+    },
+    {
+      "word": "your",
+      "start": 133.05999755859375,
+      "end": 133.25999450683594
+    },
+    {
+      "word": "eyes",
+      "start": 133.25999450683594,
+      "end": 133.6999969482422
+    },
+    {
+      "word": "you",
+      "start": 133.82000732421875,
+      "end": 134.17999267578125
+    },
+    {
+      "word": "cover",
+      "start": 134.17999267578125,
+      "end": 134.17999267578125
+    },
+    {
+      "word": "your",
+      "start": 134.17999267578125,
+      "end": 134.66000366210938
+    },
+    {
+      "word": "mouth",
+      "start": 134.66000366210938,
+      "end": 134.77999877929688
+    },
+    {
+      "word": "you",
+      "start": 134.86000061035156,
+      "end": 135.1999969482422
+    },
+    {
+      "word": "cover",
+      "start": 135.1999969482422,
+      "end": 135.25999450683594
+    },
+    {
+      "word": "your",
+      "start": 135.25999450683594,
+      "end": 135.75999450683594
+    },
+    {
+      "word": "ears",
+      "start": 135.75999450683594,
+      "end": 136.67999267578125
+    },
+    {
+      "word": "Still",
+      "start": 136.67999267578125,
+      "end": 137.63999938964844
+    },
+    {
+      "word": "you",
+      "start": 137.63999938964844,
+      "end": 138.36000061035156
+    },
+    {
+      "word": "follow",
+      "start": 138.36000061035156,
+      "end": 138.89999389648438
+    },
+    {
+      "word": "my",
+      "start": 138.89999389648438,
+      "end": 140
+    },
+    {
+      "word": "trail",
+      "start": 140,
+      "end": 140.89999389648438
+    },
+    {
+      "word": "I'll",
+      "start": 140.89999389648438,
+      "end": 141.6199951171875
+    },
+    {
+      "word": "do",
+      "start": 141.6199951171875,
+      "end": 141.83999633789062
+    },
+    {
+      "word": "it",
+      "start": 141.83999633789062,
+      "end": 142.3800048828125
+    },
+    {
+      "word": "all",
+      "start": 142.3800048828125,
+      "end": 142.4600067138672
+    },
+    {
+      "word": "I'll",
+      "start": 142.5,
+      "end": 142.77999877929688
+    },
+    {
+      "word": "do",
+      "start": 142.77999877929688,
+      "end": 142.9600067138672
+    },
+    {
+      "word": "whatever",
+      "start": 142.9600067138672,
+      "end": 143.82000732421875
+    },
+    {
+      "word": "you",
+      "start": 143.82000732421875,
+      "end": 144.36000061035156
+    },
+    {
+      "word": "say",
+      "start": 144.36000061035156,
+      "end": 145.0399932861328
+    },
+    {
+      "word": "God",
+      "start": 145.89999389648438,
+      "end": 146.89999389648438
+    },
+    {
+      "word": "has",
+      "start": 146.89999389648438,
+      "end": 147.3800048828125
+    },
+    {
+      "word": "left",
+      "start": 147.3800048828125,
+      "end": 147.8800048828125
+    },
+    {
+      "word": "me",
+      "start": 147.8800048828125,
+      "end": 148.74000549316406
+    },
+    {
+      "word": "anyway",
+      "start": 148.74000549316406,
+      "end": 151.0399932861328
+    },
+    {
+      "word": "Love",
+      "start": 173.02000427246094,
+      "end": 174.4199981689453
+    },
+    {
+      "word": "I",
+      "start": 174.5800018310547,
+      "end": 174.82000732421875
+    },
+    {
+      "word": "lay",
+      "start": 174.82000732421875,
+      "end": 175.8000030517578
+    },
+    {
+      "word": "in",
+      "start": 175.8000030517578,
+      "end": 178
+    },
+    {
+      "word": "the",
+      "start": 178,
+      "end": 178
+    },
+    {
+      "word": "pavement",
+      "start": 178,
+      "end": 178
+    },
+    {
+      "word": "Stars",
+      "start": 178,
+      "end": 179
+    },
+    {
+      "word": "with",
+      "start": 179,
+      "end": 179.3800048828125
+    },
+    {
+      "word": "stains",
+      "start": 179.3800048828125,
+      "end": 180.32000732421875
+    },
+    {
+      "word": "in",
+      "start": 180.32000732421875,
+      "end": 180.86000061035156
+    },
+    {
+      "word": "the",
+      "start": 180.86000061035156,
+      "end": 180.86000061035156
+    },
+    {
+      "word": "heaven",
+      "start": 180.86000061035156,
+      "end": 181.94000244140625
+    },
+    {
+      "word": "afterglow",
+      "start": 181.94000244140625,
+      "end": 183.44000244140625
+    },
+    {
+      "word": "Beneath",
+      "start": 183.44000244140625,
+      "end": 184.16000366210938
+    },
+    {
+      "word": "the",
+      "start": 184.16000366210938,
+      "end": 185.1199951171875
+    },
+    {
+      "word": "ashes",
+      "start": 185.1199951171875,
+      "end": 185.1199951171875
+    },
+    {
+      "word": "are",
+      "start": 185.1199951171875,
+      "end": 186.1199951171875
+    },
+    {
+      "word": "echoes",
+      "start": 186.1199951171875,
+      "end": 187.17999267578125
+    },
+    {
+      "word": "Buried",
+      "start": 187.17999267578125,
+      "end": 189.94000244140625
+    },
+    {
+      "word": "alive",
+      "start": 189.94000244140625,
+      "end": 191.47999572753906
+    },
+    {
+      "word": "They",
+      "start": 191.47999572753906,
+      "end": 192.1999969482422
+    },
+    {
+      "word": "are",
+      "start": 192.1999969482422,
+      "end": 193.36000061035156
+    },
+    {
+      "word": "howling",
+      "start": 193.36000061035156,
+      "end": 193.72000122070312
+    },
+    {
+      "word": "through",
+      "start": 193.72000122070312,
+      "end": 194.94000244140625
+    },
+    {
+      "word": "hollows",
+      "start": 194.94000244140625,
+      "end": 196.17999267578125
+    },
+    {
+      "word": "Once",
+      "start": 196.83999633789062,
+      "end": 197.6199951171875
+    },
+    {
+      "word": "we",
+      "start": 197.6199951171875,
+      "end": 198.05999755859375
+    },
+    {
+      "word": "shared",
+      "start": 198.05999755859375,
+      "end": 198.97999572753906
+    },
+    {
+      "word": "their",
+      "start": 198.97999572753906,
+      "end": 199.5
+    },
+    {
+      "word": "temples",
+      "start": 199.5,
+      "end": 200.83999633789062
+    },
+    {
+      "word": "Now",
+      "start": 201.74000549316406,
+      "end": 203.13999938964844
+    },
+    {
+      "word": "our",
+      "start": 203.13999938964844,
+      "end": 204.22000122070312
+    },
+    {
+      "word": "heads",
+      "start": 204.22000122070312,
+      "end": 205.3800048828125
+    },
+    {
+      "word": "are",
+      "start": 205.3800048828125,
+      "end": 207.4199981689453
+    },
+    {
+      "word": "hung",
+      "start": 207.4199981689453,
+      "end": 207.4199981689453
+    },
+    {
+      "word": "up",
+      "start": 207.4199981689453,
+      "end": 208.32000732421875
+    },
+    {
+      "word": "on",
+      "start": 208.32000732421875,
+      "end": 209.83999633789062
+    },
+    {
+      "word": "walls",
+      "start": 209.83999633789062,
+      "end": 209.83999633789062
+    },
+    {
+      "word": "We",
+      "start": 209.83999633789062,
+      "end": 210.4600067138672
+    },
+    {
+      "word": "are",
+      "start": 210.4600067138672,
+      "end": 210.82000732421875
+    },
+    {
+      "word": "ruins",
+      "start": 210.82000732421875,
+      "end": 212.22000122070312
+    },
+    {
+      "word": "within",
+      "start": 212.22000122070312,
+      "end": 212.89999389648438
+    },
+    {
+      "word": "ruins",
+      "start": 212.89999389648438,
+      "end": 214.6199951171875
+    },
+    {
+      "word": "On",
+      "start": 214.6199951171875,
+      "end": 215.25999450683594
+    },
+    {
+      "word": "every",
+      "start": 215.25999450683594,
+      "end": 215.94000244140625
+    },
+    {
+      "word": "corner",
+      "start": 215.94000244140625,
+      "end": 217.3800048828125
+    },
+    {
+      "word": "gladiator",
+      "start": 218.32000732421875,
+      "end": 220
+    },
+    {
+      "word": "Is",
+      "start": 220,
+      "end": 221.16000366210938
+    },
+    {
+      "word": "begging",
+      "start": 221.16000366210938,
+      "end": 221.16000366210938
+    },
+    {
+      "word": "for",
+      "start": 221.16000366210938,
+      "end": 222.10000610351562
+    },
+    {
+      "word": "another",
+      "start": 222.10000610351562,
+      "end": 223.83999633789062
+    },
+    {
+      "word": "century",
+      "start": 223.83999633789062,
+      "end": 226.6199951171875
+    },
+    {
+      "word": "When",
+      "start": 227.52000427246094,
+      "end": 228.9199981689453
+    },
+    {
+      "word": "no",
+      "start": 228.9199981689453,
+      "end": 229.4600067138672
+    },
+    {
+      "word": "one",
+      "start": 229.4600067138672,
+      "end": 230.4600067138672
+    },
+    {
+      "word": "heard",
+      "start": 230.4600067138672,
+      "end": 231.72000122070312
+    },
+    {
+      "word": "your",
+      "start": 231.72000122070312,
+      "end": 232.27999877929688
+    },
+    {
+      "word": "tongue",
+      "start": 232.27999877929688,
+      "end": 232.83999633789062
+    },
+    {
+      "word": "To",
+      "start": 232.83999633789062,
+      "end": 233.86000061035156
+    },
+    {
+      "word": "know",
+      "start": 233.86000061035156,
+      "end": 235.0399932861328
+    },
+    {
+      "word": "nothing",
+      "start": 235.0399932861328,
+      "end": 235.77999877929688
+    },
+    {
+      "word": "and",
+      "start": 235.77999877929688,
+      "end": 236.74000549316406
+    },
+    {
+      "word": "to",
+      "start": 236.74000549316406,
+      "end": 237.52000427246094
+    },
+    {
+      "word": "know",
+      "start": 237.52000427246094,
+      "end": 238.02000427246094
+    },
+    {
+      "word": "it",
+      "start": 238.02000427246094,
+      "end": 238.32000732421875
+    },
+    {
+      "word": "all",
+      "start": 238.32000732421875,
+      "end": 238.94000244140625
+    },
+    {
+      "word": "To",
+      "start": 238.94000244140625,
+      "end": 239.5
+    },
+    {
+      "word": "be",
+      "start": 239.5,
+      "end": 240.16000366210938
+    },
+    {
+      "word": "both",
+      "start": 240.16000366210938,
+      "end": 240.5800018310547
+    },
+    {
+      "word": "the",
+      "start": 240.5800018310547,
+      "end": 242.1999969482422
+    },
+    {
+      "word": "animal",
+      "start": 242.1999969482422,
+      "end": 243
+    },
+    {
+      "word": "and",
+      "start": 243,
+      "end": 244.3000030517578
+    },
+    {
+      "word": "the",
+      "start": 244.3000030517578,
+      "end": 245.8000030517578
+    },
+    {
+      "word": "god",
+      "start": 245.8000030517578,
+      "end": 246.52000427246094
+    },
+    {
+      "word": "You",
+      "start": 246.55999755859375,
+      "end": 247.5399932861328
+    },
+    {
+      "word": "cover",
+      "start": 247.5399932861328,
+      "end": 247.5399932861328
+    },
+    {
+      "word": "your",
+      "start": 247.5399932861328,
+      "end": 247.97999572753906
+    },
+    {
+      "word": "eyes",
+      "start": 247.97999572753906,
+      "end": 248.10000610351562
+    },
+    {
+      "word": "you",
+      "start": 248.3000030517578,
+      "end": 248.55999755859375
+    },
+    {
+      "word": "cover",
+      "start": 248.55999755859375,
+      "end": 248.55999755859375
+    },
+    {
+      "word": "your",
+      "start": 248.55999755859375,
+      "end": 249.05999755859375
+    },
+    {
+      "word": "mouth",
+      "start": 249.05999755859375,
+      "end": 249.17999267578125
+    },
+    {
+      "word": "you",
+      "start": 249.25999450683594,
+      "end": 249.5800018310547
+    },
+    {
+      "word": "cover",
+      "start": 249.5800018310547,
+      "end": 249.60000610351562
+    },
+    {
+      "word": "your",
+      "start": 249.60000610351562,
+      "end": 250.0800018310547
+    },
+    {
+      "word": "ears",
+      "start": 250.0800018310547,
+      "end": 250.82000732421875
+    },
+    {
+      "word": "Still",
+      "start": 251.1999969482422,
+      "end": 252.17999267578125
+    },
+    {
+      "word": "you",
+      "start": 252.17999267578125,
+      "end": 252.89999389648438
+    },
+    {
+      "word": "follow",
+      "start": 252.89999389648438,
+      "end": 253.3000030517578
+    },
+    {
+      "word": "our",
+      "start": 253.3000030517578,
+      "end": 254.47999572753906
+    },
+    {
+      "word": "trail",
+      "start": 254.47999572753906,
+      "end": 255.4199981689453
+    },
+    {
+      "word": "We'll",
+      "start": 255.4199981689453,
+      "end": 256.1600036621094
+    },
+    {
+      "word": "do",
+      "start": 256.1600036621094,
+      "end": 256.3999938964844
+    },
+    {
+      "word": "it",
+      "start": 256.3999938964844,
+      "end": 256.82000732421875
+    },
+    {
+      "word": "all",
+      "start": 256.82000732421875,
+      "end": 257.0199890136719
+    },
+    {
+      "word": "we'll",
+      "start": 257.0799865722656,
+      "end": 257.2799987792969
+    },
+    {
+      "word": "do",
+      "start": 257.2799987792969,
+      "end": 257.5799865722656
+    },
+    {
+      "word": "whatever",
+      "start": 257.5799865722656,
+      "end": 258.2200012207031
+    },
+    {
+      "word": "you",
+      "start": 258.2200012207031,
+      "end": 258.8399963378906
+    },
+    {
+      "word": "say",
+      "start": 258.8399963378906,
+      "end": 259.260009765625
+    },
+    {
+      "word": "God",
+      "start": 259.94000244140625,
+      "end": 260.9200134277344
+    },
+    {
+      "word": "has",
+      "start": 260.9200134277344,
+      "end": 261.3599853515625
+    },
+    {
+      "word": "left",
+      "start": 261.3599853515625,
+      "end": 261.79998779296875
+    },
+    {
+      "word": "us",
+      "start": 261.79998779296875,
+      "end": 262.3399963378906
+    },
+    {
+      "word": "anyway",
+      "start": 262.3399963378906,
+      "end": 263.7799987792969
+    },
+    {
+      "word": "You",
+      "start": 263.7799987792969,
+      "end": 264.70001220703125
+    },
+    {
+      "word": "cover",
+      "start": 264.70001220703125,
+      "end": 264.70001220703125
+    },
+    {
+      "word": "your",
+      "start": 264.70001220703125,
+      "end": 265.3599853515625
+    },
+    {
+      "word": "eyes",
+      "start": 265.3599853515625,
+      "end": 265.4200134277344
+    },
+    {
+      "word": "you",
+      "start": 265.82000732421875,
+      "end": 265.8399963378906
+    },
+    {
+      "word": "cover",
+      "start": 265.8399963378906,
+      "end": 265.8399963378906
+    },
+    {
+      "word": "your",
+      "start": 265.8399963378906,
+      "end": 266.17999267578125
+    },
+    {
+      "word": "mouth",
+      "start": 266.17999267578125,
+      "end": 266.5
+    },
+    {
+      "word": "you",
+      "start": 266.5,
+      "end": 267
+    },
+    {
+      "word": "cover",
+      "start": 267,
+      "end": 267
+    },
+    {
+      "word": "your",
+      "start": 267,
+      "end": 267.5799865722656
+    },
+    {
+      "word": "ears",
+      "start": 267.5799865722656,
+      "end": 268.20001220703125
+    },
+    {
+      "word": "Still",
+      "start": 268.20001220703125,
+      "end": 269.55999755859375
+    },
+    {
+      "word": "you",
+      "start": 269.55999755859375,
+      "end": 270.1400146484375
+    },
+    {
+      "word": "follow",
+      "start": 270.1400146484375,
+      "end": 271
+    },
+    {
+      "word": "our",
+      "start": 271,
+      "end": 272.5799865722656
+    },
+    {
+      "word": "trail",
+      "start": 272.5799865722656,
+      "end": 272.5799865722656
+    },
+    {
+      "word": "We'll",
+      "start": 272.5799865722656,
+      "end": 273.3399963378906
+    },
+    {
+      "word": "do",
+      "start": 273.3399963378906,
+      "end": 273.5400085449219
+    },
+    {
+      "word": "it",
+      "start": 273.5400085449219,
+      "end": 274.0799865722656
+    },
+    {
+      "word": "all",
+      "start": 274.0799865722656,
+      "end": 274.1400146484375
+    },
+    {
+      "word": "we'll",
+      "start": 274.2200012207031,
+      "end": 274.44000244140625
+    },
+    {
+      "word": "do",
+      "start": 274.44000244140625,
+      "end": 274.70001220703125
+    },
+    {
+      "word": "whatever",
+      "start": 274.70001220703125,
+      "end": 275.3599853515625
+    },
+    {
+      "word": "you",
+      "start": 275.3599853515625,
+      "end": 275.8999938964844
+    },
+    {
+      "word": "say",
+      "start": 275.8999938964844,
+      "end": 276.4800109863281
+    },
+    {
+      "word": "God",
+      "start": 277,
+      "end": 278.1600036621094
+    },
+    {
+      "word": "has",
+      "start": 278.1600036621094,
+      "end": 278.6600036621094
+    },
+    {
+      "word": "left",
+      "start": 278.6600036621094,
+      "end": 279.1199951171875
+    },
+    {
+      "word": "us",
+      "start": 279.1199951171875,
+      "end": 280.94000244140625
+    },
+    {
+      "word": "anyway",
+      "start": 280.94000244140625,
+      "end": 283.9800109863281
+    },
+    {
+      "word": "God",
+      "start": 317.739990234375,
+      "end": 317.7799987792969
+    },
+    {
+      "word": "has",
+      "start": 317.7799987792969,
+      "end": 317.82000732421875
+    },
+    {
+      "word": "left",
+      "start": 317.82000732421875,
+      "end": 317.8399963378906
+    },
+    {
+      "word": "us",
+      "start": 317.8399963378906,
+      "end": 317.8599853515625
+    },
+    {
+      "word": "anyway",
+      "start": 317.8599853515625,
+      "end": 317.8800048828125
+    },
+    {
+      "word": "God",
+      "start": 317.8800048828125,
+      "end": 317.8999938964844
+    },
+    {
+      "word": "has",
+      "start": 317.8999938964844,
+      "end": 317.9200134277344
+    },
+    {
+      "word": "left",
+      "start": 317.9200134277344,
+      "end": 317.94000244140625
+    },
+    {
+      "word": "us",
+      "start": 317.94000244140625,
+      "end": 317.9599914550781
+    },
+    {
+      "word": "anyway",
+      "start": 317.9599914550781,
+      "end": 317.9800109863281
+    },
+    {
+      "word": "God",
+      "start": 327.6000061035156,
+      "end": 327.6400146484375
+    },
+    {
+      "word": "has",
+      "start": 327.6400146484375,
+      "end": 327.67999267578125
+    },
+    {
+      "word": "left",
+      "start": 327.67999267578125,
+      "end": 327.67999267578125
+    },
+    {
+      "word": "us",
+      "start": 327.67999267578125,
+      "end": 327.7200012207031
+    },
+    {
+      "word": "anyway",
+      "start": 327.7200012207031,
+      "end": 327.739990234375
+    },
+    {
+      "word": "There",
+      "start": 332.67999267578125,
+      "end": 334.0799865722656
+    },
+    {
+      "word": "are",
+      "start": 334.0799865722656,
+      "end": 334.6400146484375
+    },
+    {
+      "word": "echoes",
+      "start": 334.6400146484375,
+      "end": 335.0400085449219
+    },
+    {
+      "word": "in",
+      "start": 335.0400085449219,
+      "end": 336.739990234375
+    },
+    {
+      "word": "the",
+      "start": 336.739990234375,
+      "end": 337.1400146484375
+    },
+    {
+      "word": "garden",
+      "start": 337.1400146484375,
+      "end": 338.2799987792969
+    },
+    {
+      "word": "Is",
+      "start": 338.9200134277344,
+      "end": 340.32000732421875
+    },
+    {
+      "word": "anybody",
+      "start": 340.32000732421875,
+      "end": 341.7200012207031
+    },
+    {
+      "word": "listening",
+      "start": 341.7200012207031,
+      "end": 343.67999267578125
+    },
+    {
+      "word": "There",
+      "start": 344.44000244140625,
+      "end": 344.8599853515625
+    },
+    {
+      "word": "are",
+      "start": 344.8599853515625,
+      "end": 346.6199951171875
+    },
+    {
+      "word": "echoes",
+      "start": 346.6199951171875,
+      "end": 346.6199951171875
+    },
+    {
+      "word": "lost",
+      "start": 346.6199951171875,
+      "end": 347.4800109863281
+    },
+    {
+      "word": "in",
+      "start": 347.4800109863281,
+      "end": 347.7799987792969
+    },
+    {
+      "word": "the",
+      "start": 347.7799987792969,
+      "end": 348.70001220703125
+    },
+    {
+      "word": "garden",
+      "start": 348.70001220703125,
+      "end": 348.9599914550781
+    },
+    {
+      "word": "Is",
+      "start": 350.6000061035156,
+      "end": 352
+    },
+    {
+      "word": "anybody",
+      "start": 352,
+      "end": 353.3999938964844
+    },
+    {
+      "word": "listening",
+      "start": 353.3999938964844,
+      "end": 354.3999938964844
+    },
+    {
+      "word": "They",
+      "start": 354.3999938964844,
+      "end": 355.5400085449219
+    },
+    {
+      "word": "whisper",
+      "start": 355.5400085449219,
+      "end": 356.3999938964844
+    },
+    {
+      "word": "the",
+      "start": 357.44000244140625,
+      "end": 357.5199890136719
+    },
+    {
+      "word": "ones",
+      "start": 357.5199890136719,
+      "end": 358.0199890136719
+    },
+    {
+      "word": "who",
+      "start": 358.0199890136719,
+      "end": 358.5199890136719
+    },
+    {
+      "word": "are",
+      "start": 358.5199890136719,
+      "end": 358.5199890136719
+    },
+    {
+      "word": "only",
+      "start": 358.5199890136719,
+      "end": 359.3800048828125
+    },
+    {
+      "word": "living",
+      "start": 359.3800048828125,
+      "end": 360.7200012207031
+    },
+    {
+      "word": "Are",
+      "start": 360.7200012207031,
+      "end": 362.0199890136719
+    },
+    {
+      "word": "the",
+      "start": 362.0199890136719,
+      "end": 362.3800048828125
+    },
+    {
+      "word": "ones",
+      "start": 362.3800048828125,
+      "end": 363.5
+    },
+    {
+      "word": "who",
+      "start": 363.5,
+      "end": 364.32000732421875
+    },
+    {
+      "word": "are",
+      "start": 364.32000732421875,
+      "end": 364.3399963378906
+    },
+    {
+      "word": "only",
+      "start": 364.3399963378906,
+      "end": 365.29998779296875
+    },
+    {
+      "word": "dying",
+      "start": 365.29998779296875,
+      "end": 366.4200134277344
+    }
+  ],
+  "usage": {
+    "type": "duration",
+    "seconds": 380
+  }
+}
