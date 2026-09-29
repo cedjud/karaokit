@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState } from 'react'
+import { LoaderCircle } from 'lucide-react'
 import { AddSong } from '@/components/add-song'
 import { Player } from '@/components/player'
 import {
@@ -14,6 +15,7 @@ function App() {
   const [songs, setSongs] = useState<Song[]>([])
   const [songId, setSongId] = useState<string | null>(null)
   const [failed, setFailed] = useState(false)
+  const [loading, setLoading] = useState(true)
 
   const load = useCallback(async (select?: string) => {
     try {
@@ -23,6 +25,8 @@ function App() {
       setFailed(false)
     } catch {
       setFailed(true)
+    } finally {
+      setLoading(false)
     }
   }, [])
 
@@ -35,9 +39,16 @@ function App() {
   return (
     <main className="flex min-h-svh items-center justify-center p-4">
       <div className="flex w-full max-w-3xl flex-col gap-10">
-        <Select value={songId ?? undefined} onValueChange={setSongId}>
-          <SelectTrigger className="w-full sm:w-80">
-            <SelectValue placeholder={failed ? "Couldn't load songs" : 'Select a song'} />
+        <Select value={songId ?? undefined} onValueChange={setSongId} disabled={loading}>
+          <SelectTrigger className="w-full sm:w-80" aria-busy={loading}>
+            {loading ? (
+              <span className="text-muted-foreground flex items-center gap-2">
+                <LoaderCircle className="animate-spin" />
+                Loading songs…
+              </span>
+            ) : (
+              <SelectValue placeholder={failed ? "Couldn't load songs" : 'Select a song'} />
+            )}
           </SelectTrigger>
           <SelectContent>
             {songs.map((s) => (
