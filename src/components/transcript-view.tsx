@@ -1,5 +1,9 @@
-import { cn } from '@/lib/utils'
-import { activeSegmentIndex, type Segment } from '@/transcript'
+import { Fragment } from 'react'
+import { activeSegmentIndex, type Segment, type Word } from '@/transcript'
+
+// Share of the word sung so far, 0-1. Zero-length words flip at their start.
+const progress = ({ start, end }: Word, time: number) =>
+  end > start ? Math.min(Math.max((time - start) / (end - start), 0), 1) : Number(time >= start)
 
 type Props = { segments: Segment[]; time: number }
 
@@ -14,17 +18,17 @@ export function TranscriptView({ segments, time }: Props) {
     <div className="flex min-h-64 flex-col justify-center gap-6">
       <p key={index} className="text-4xl leading-tight font-semibold tracking-tight md:text-5xl">
         {segment.words.map((w, i) => (
-          <span
-            key={i}
-            className={cn(
-              'transition-colors duration-150',
-              time < w.start && 'text-muted-foreground/40',
-              time >= w.start && time < w.end && 'text-primary',
-              time >= w.end && 'text-foreground',
-            )}
-          >
-            {w.word}{' '}
-          </span>
+          <Fragment key={i}>
+            <span
+              className="bg-clip-text text-transparent"
+              style={{
+                // Hard stop at the sung share fills the word left to right
+                backgroundImage: `linear-gradient(to right, var(--color-foreground) ${progress(w, time) * 100}%, color-mix(in oklab, var(--color-muted-foreground) 40%, transparent) 0)`,
+              }}
+            >
+              {w.word}
+            </span>{' '}
+          </Fragment>
         ))}
       </p>
       {next && (
