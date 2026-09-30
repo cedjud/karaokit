@@ -2,13 +2,15 @@
 
 Outputs land in R2 with the same layout as ./public:
   audio/<name>.mp3, stems/<name>/{vocals,no_vocals}.mp3, transcripts/<name>.json,
-  meta/<name>.json ({artist, title, language})
+  lyrics/<name>.json (verified against LRCLIB), meta/<name>.json ({artist, title, language, lyrics})
 Plus source/<name>.<ext>: the original download, never re-encoded, fed to separation.
 
 language is a Whisper ISO-639-1 code ("en", "fr", ...) or "auto" to let Whisper detect it.
 
 CLI:    modal run worker/app.py --url <url> [--name artist_title] [--language fr]
 Redo a transcript: modal run worker/app.py::transcribe --name <id> --language fr
+Verify lyrics:     modal run worker/app.py::verify_lyrics --name <id>
+                   (LRCLIB + LLM -> lyrics/<id>.json; see lyrics.py)
 Redo stems:        modal run worker/app.py::separate --name <id> --force
 Try another model: modal run worker/app.py::separate --name <id> --model htdemucs_ft.yaml
                    (writes to compare/<model>/<id>, leaving stems/ untouched)
@@ -62,6 +64,8 @@ separate_image = (
 )
 
 transcribe_image = modal.Image.debian_slim(python_version="3.12").pip_install("openai")
+
+lyrics_image = transcribe_image.add_local_python_source("lyrics")
 
 web_image = modal.Image.debian_slim(python_version="3.12").pip_install("fastapi[standard]")
 
@@ -243,13 +247,44 @@ def transcribe(name: str, language: str = "en") -> str:
     return dest
 
 
-@app.function(timeout=1200)
+@app.function(
+    image=lyrics_image,
+    volumes=volumes,
+    secrets=[modal.Secret.from_name("openai")],
+    timeout=600,
+)
+def verify_lyrics(name: str) -> str | None:
+    import lyrics
+
+    with open(f"{MOUNT}/transcripts/{name}.json") as f:
+        transcript = json.load(f)
+    result = lyrics.verify(transcript, read_meta(name))
+    if not result or not result["segments"]:
+        update_meta(name, lyrics="none")
+        print(f"No reference lyrics for {name}")
+        return None
+    dest = f"{MOUNT}/lyrics/{name}.json"
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest, "w") as f:
+        json.dump(result, f, ensure_ascii=False)
+    update_meta(name, lyrics="synced" if result["synced"] else "plain")
+    print(f"Saved {dest} (lrclib {result['lrclibId']}, synced={result['synced']}, offset={result['offset']})")
+    return dest
+
+
+@app.function(timeout=1800)
 def add_song(url: str, name: str | None = None, language: str = "en") -> dict:
     name = download.remote(url, name)
     # Sequential: transcription reads the vocal stem.
     stems = separate.remote(name)
     transcript = transcribe.remote(name, language)
-    return {"name": name, "stems": stems, "transcript": transcript}
+    # Optional: songs without reference lyrics fall back to the raw transcript.
+    try:
+        verified = verify_lyrics.remote(name)
+    except Exception as e:
+        print(f"Lyrics verification failed: {e}")
+        verified = None
+    return {"name": name, "stems": stems, "transcript": transcript, "lyrics": verified}
 
 
 # --- HTTP API for the web UI ---

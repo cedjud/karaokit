@@ -2,6 +2,8 @@ export type Song = {
   id: string
   artist: string
   title: string
+  // Whether lyrics/<id>.json exists: verified against LRCLIB, with LRC-checked timings when 'synced'
+  lyrics?: 'synced' | 'plain' | 'none'
 }
 
 export type Job =
@@ -57,3 +59,5 @@ export const stemUrl = (song: Song, stem: 'vocals' | 'no_vocals') =>
   `${mediaUrl}/stems/${encodeURIComponent(song.id)}/${stem}.mp3`
 export const transcriptUrl = (song: Song) =>
   `${mediaUrl}/transcripts/${encodeURIComponent(song.id)}.json`
+export const lyricsUrl = (song: Song) => `${mediaUrl}/lyrics/${encodeURIComponent(song.id)}.json`
+export const hasLyrics = (song: Song) => song.lyrics === 'synced' || song.lyrics === 'plain'
