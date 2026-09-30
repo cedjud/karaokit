@@ -1,4 +1,5 @@
-export type Word = { word: string; start: number; end: number }
+// `inferred`: timing estimated (from LRC lines or neighbouring words), not heard by Whisper
+export type Word = { word: string; start: number; end: number; inferred?: boolean }
 
 export type Segment = { start: number; end: number; words: Word[] }
 
@@ -7,6 +8,13 @@ type RawSegment = { start: number; end: number; text: string; avg_logprob: numbe
 export type RawTranscript = {
   segments: RawSegment[]
   words: Word[]
+}
+
+// Transcript corrected against reference lyrics (worker/lyrics.py), ready to display
+export type VerifiedLyrics = {
+  source: 'lrclib'
+  synced: boolean
+  segments: Segment[]
 }
 
 // Whisper hallucinates during instrumental parts: zero-length repeats,
