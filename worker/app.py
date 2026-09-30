@@ -21,9 +21,12 @@ import glob
 import json
 import os
 import re
+import shlex
 import shutil
 import subprocess
+import sys
 import tempfile
+from datetime import date
 
 import modal
 
@@ -45,11 +48,13 @@ r2 = modal.CloudBucketMount(
 volumes = {MOUNT: r2}
 
 # yt-dlp needs a JS runtime (deno) for YouTube.
+# Nightly (--pre) ships YouTube fixes first; the date in the command busts Modal's layer cache on the next day's deploy.
+YT_DLP_INSTALL = ["pip", "install", "-U", "--pre", "yt-dlp[default]"]
 download_image = (
     modal.Image.debian_slim(python_version="3.12")
     .apt_install("ffmpeg", "curl", "unzip")
     .run_commands("curl -fsSL https://deno.land/install.sh | DENO_INSTALL=/usr/local sh -s -- -y")
-    .pip_install("yt-dlp[default]")
+    .run_commands(f"{shlex.join(YT_DLP_INSTALL)}  # {date.today()}")
 )
 
 separate_image = (
@@ -128,10 +133,21 @@ def update_meta(name: str, **fields) -> None:
 # --- steps ---
 
 
+yt_dlp_upgraded = False
+
+
 @app.function(image=download_image, volumes=volumes, timeout=600, retries=1)
 def download(url: str, name: str | None = None) -> str:
     def yt_dlp(*args: str) -> str:
-        result = subprocess.run(["yt-dlp", "--no-playlist", *args], capture_output=True, text=True)
+        global yt_dlp_upgraded
+        cmd = ["yt-dlp", "--no-playlist", *args]
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        # YouTube breaks yt-dlp often: on failure, upgrade to the latest nightly once per container and retry.
+        if result.returncode and not yt_dlp_upgraded:
+            yt_dlp_upgraded = True
+            print(f"yt-dlp failed, upgrading and retrying: {result.stderr.strip()}")
+            subprocess.run([sys.executable, "-m", *YT_DLP_INSTALL], check=True)
+            result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode:
             raise RuntimeError(f"yt-dlp failed: {result.stderr.strip()}")
         return result.stdout.strip()
