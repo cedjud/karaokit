@@ -1,0 +1,11 @@
+# Local worker: http://localhost:8000, files in ./data (served at /media). Web UI: npm run dev:local
+services:
+  worker:
+    build: worker
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/data
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      API_TOKEN: local

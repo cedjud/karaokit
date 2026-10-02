@@ -27,3 +27,6 @@ dist-ssr
 public/audio/**
 public/stems/**
 __pycache__/
+
+/data
+.models
