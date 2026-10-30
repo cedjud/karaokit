@@ -167,8 +167,13 @@ def separate(name: str, model: str = SEPARATION_MODEL, force: bool = False) -> s
     return out_dir
 
 
-def transcribe(name: str, language: str = "en") -> str:
+def transcribe(name: str, language: str = "en", force: bool = False) -> str:
     from openai import OpenAI
+
+    dest = f"{DATA_DIR}/transcripts/{name}.json"
+    if os.path.exists(dest) and not force:
+        print(f"{name} already transcribed, skipping")
+        return dest
 
     options = {}
     if language != "auto":
@@ -179,7 +184,6 @@ def transcribe(name: str, language: str = "en") -> str:
         # English-only: it would pull other languages towards English.
         options["prompt"] = "Oh, oh, oh. La, la, la. Yeah, yeah. Na na na, na na na."
 
-    dest = f"{DATA_DIR}/transcripts/{name}.json"
     # The vocal stem: no backing track to mishear, and timestamps match the stems the app plays.
     audio = f"{DATA_DIR}/stems/{name}/vocals.mp3"
     if not os.path.exists(audio):

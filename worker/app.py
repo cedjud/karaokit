@@ -95,8 +95,8 @@ def separate(name: str, model: str = SEPARATION_MODEL, force: bool = False) -> s
     secrets=[modal.Secret.from_name("openai")],
     timeout=300,
 )
-def transcribe(name: str, language: str = "en") -> str:
-    return pipeline.transcribe(name, language)
+def transcribe(name: str, language: str = "en", force: bool = False) -> str:
+    return pipeline.transcribe(name, language, force)
 
 
 @app.function(
