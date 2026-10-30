@@ -1,4 +1,5 @@
-# Local worker: http://localhost:8000, files in ./data (served at /media). Web UI: npm run dev:local
+# Local stack: worker at http://localhost:8000 (files in ./data, served at /media), web UI at http://localhost:8080.
+# Web only: npm run dev:local (Vite dev server against the worker).
 services:
   worker:
     build: worker
@@ -9,3 +10,12 @@ services:
     environment:
       OPENAI_API_KEY: ${OPENAI_API_KEY}
       API_TOKEN: local
+  web:
+    build:
+      context: .
+      args:
+        VITE_API_URL: http://localhost:8000
+        VITE_MEDIA_URL: http://localhost:8000/media
+        VITE_API_TOKEN: local
+    ports:
+      - "8080:80"
