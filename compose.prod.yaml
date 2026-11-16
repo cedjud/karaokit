@@ -1,0 +1,52 @@
+# Production stack on a single Docker host (e.g. a Hetzner/DO VM): web UI + worker behind Caddy with auto-HTTPS.
+# Files live in R2 (mounted at /data) and are served to the browser from $MEDIA_DOMAIN (R2 custom domain, see r2-cors.json).
+# Setup: point DNS for $APP_DOMAIN and $API_DOMAIN at the VM, open ports 80/443, copy .env.prod.example to .env, then
+#   docker compose -f compose.prod.yaml up -d --build
+# VITE_* are baked into the web image at build time: rebuild (--build) after changing them.
+services:
+  worker:
+    build: worker
+    restart: unless-stopped
+    # FUSE, for the rclone R2 mount at /data (entrypoint.sh).
+    devices:
+      - /dev/fuse
+    cap_add:
+      - SYS_ADMIN
+    security_opt:
+      - apparmor:unconfined
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY:?set in .env}
+      API_TOKEN: ${API_TOKEN:?set in .env}
+      R2_ACCOUNT_ID: ${R2_ACCOUNT_ID:?set in .env}
+      R2_BUCKET: ${R2_BUCKET:?set in .env}
+      R2_ACCESS_KEY_ID: ${R2_ACCESS_KEY_ID:?set in .env}
+      R2_SECRET_ACCESS_KEY: ${R2_SECRET_ACCESS_KEY:?set in .env}
+  web:
+    build:
+      context: .
+      args:
+        VITE_API_URL: https://${API_DOMAIN:?set in .env}
+        VITE_MEDIA_URL: https://${MEDIA_DOMAIN:?set in .env}
+        VITE_API_TOKEN: ${API_TOKEN:?set in .env}
+    restart: unless-stopped
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on:
+      - web
+      - worker
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      APP_DOMAIN: ${APP_DOMAIN:?set in .env}
+      API_DOMAIN: ${API_DOMAIN:?set in .env}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  caddy_data:
+  caddy_config:
