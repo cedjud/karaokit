@@ -1,0 +1,10 @@
+# Auto-HTTPS reverse proxy (see compose.prod.yaml). APP_DOMAIN and API_DOMAIN come from .env.
+{$APP_DOMAIN} {
+	encode zstd gzip
+	reverse_proxy web:8080
+}
+
+{$API_DOMAIN} {
+	encode zstd gzip
+	reverse_proxy worker:8000
+}

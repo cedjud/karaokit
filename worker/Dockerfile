@@ -16,11 +16,16 @@ ENV MODEL_DIR=/models DATA_DIR=/data
 RUN python -c "from audio_separator.separator import Separator; \
 Separator(model_file_dir='/models').download_model_files('vocals_mel_band_roformer.ckpt')"
 
+# R2 mount for prod (entrypoint.sh); unused locally.
+RUN apt-get update && apt-get install -y --no-install-recommends fuse3 rclone \
+    && rm -rf /var/lib/apt/lists/*
+
 # Last, so its own layer can be refreshed on its own: docker compose build --build-arg YT_DLP_CACHE_BUST=$(date +%F)
 ARG YT_DLP_CACHE_BUST
 RUN pip install --no-cache-dir -U --pre "yt-dlp[default]"
 
 WORKDIR /app
-COPY pipeline.py lyrics.py local.py ./
+COPY pipeline.py lyrics.py local.py entrypoint.sh ./
 EXPOSE 8000
+ENTRYPOINT ["./entrypoint.sh"]
 CMD ["uvicorn", "local:app", "--host", "0.0.0.0", "--port", "8000"]
